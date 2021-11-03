@@ -7,10 +7,10 @@ The course is organised in to the following folders:
 - **Class Examples:** Code snippets and examples used in class
 
 This project provides supporting materials for the course at EDEM and students are encourage to read the tutorials and perform the exercises following along the lectures. This is the guide and recommended order to read the tutorials and do the exercises: 
-- Lecture 1: Fundamentals of programming. SW development life cycle 1 
- - (No supporting materials)
-- Lecture 2: Fundamentals of programming. Intro to Git.
- - (No supporting materials)
+- **Lecture 1:** Fundamentals of programming. SW development life cycle 1 
+    - (No supporting materials)
+- **Lecture 2:** Fundamentals of programming. Intro to Git.
+    - (No supporting materials)
 
 - Lecture 3: Fundamentals of programming. Classification of programming languages and intro to Jupyter Notebooks
  - [Tutorial 0. Working with markdown cells](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/0.%20Working%20with%20Markdown%20cells.ipynb)
