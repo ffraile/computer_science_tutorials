@@ -16,7 +16,7 @@ This project provides supporting materials for the course at EDEM and students a
     - [Tutorial 0. Working with markdown cells](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/0.%20Working%20with%20Markdown%20cells.ipynb)
 
 - **Lecture 4:** Fundamentals of programming. Variables and basic operations
-    - [Tutorial 1. Variables](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/1.%20Variables.ipynb) {{ badge Tutorials/1. Variables.ipynb }}
+    - [Tutorial 1. Variables](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/1.%20Variables.ipynb) {{ badge Tutorials/1.%20Variables.ipynb }}
     - [Class Exercises 1. Variables](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Class%20Exercises/1.%20Variables.ipynb)
     - [Tutorial 2. Basic Operations](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/2.%20Basic%20Operators.ipynb)
     - [Class Exercises 2. Basic Operations](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Class%20Exercises/2.%20Basic%20Operators.ipynb)
