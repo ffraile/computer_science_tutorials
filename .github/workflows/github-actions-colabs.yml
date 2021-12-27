@@ -23,4 +23,4 @@ jobs:
         uses: actions-js/push@master
         with:
           branch: main
-          github_token: ${{ secrets.TKN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
