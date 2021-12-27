@@ -16,5 +16,5 @@ jobs:
         with:
           check: "all"
           target_branch: main
-          target_repository: user/user-repo
+          target_repository: ffraile/computer_science_tutorials
           update: true
