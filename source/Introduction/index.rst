@@ -3,7 +3,7 @@ ___________________________________
 Welcome to the first chapter of this book! Down below you can check the contents of this chapter:
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: Contents:
     :glob:
     :titlesonly:

@@ -39,8 +39,6 @@ Bibliography
 ==============
 The following books are useful references for computer science:
 
-- `Operations Research Problems <https://www.springer.com/gp/book/9781447155768>`_
-- `Introduction to Operations Research with Python <https://github.com/benalexkeen/Introduction-to-linear-programming>`_
 
 Contributions
 ==============
