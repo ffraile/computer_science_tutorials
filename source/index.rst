@@ -23,7 +23,7 @@ With this said, we are ready to get started! But before you do, I think it is im
    :caption: Contents:
    :glob:
 
-   Introduction to Operations Research <Introduction/index.rst>
+   Introduction to Computer Programming <Introduction/index.rst>
    Modularization and object-oriented programming <Modularization/index.rst>
    Data handling and analysis <Data/index.rst>
    Structured Query Language (SQL) <SQL/index.rst>
