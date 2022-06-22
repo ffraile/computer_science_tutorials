@@ -1,6 +1,10 @@
 Introduction to Python Programming
-___________________________________
+===================================
 Welcome to the first chapter of this book! Down below you can check the contents of this chapter:
+
+Tutorials
+__________
+This section contains some basic tutorials:
 
 .. toctree::
     :maxdepth: 2
@@ -8,10 +12,14 @@ Welcome to the first chapter of this book! Down below you can check the contents
     :glob:
     :titlesonly:
 
-    /Introduction/tutorials/Introduction to Computer Programming
-    /Introduction/tutorials/Working with Markdown cells
-    /Introduction/tutorials/Variables
-    /Introduction/tutorials/Basic Operators
-    /Introduction/tutorials/Iterable Objects
-    /Introduction/tutorials/Selection Control Flow
-    /Introduction/tutorials/Control Loops
+    Introduction to Computer Programming </Introduction/tutorials/Introduction to Computer Programming>
+    Working with Markdown cells </Introduction/tutorials/Working with Markdown cells>
+    Variables </Introduction/tutorials/Variables>
+    Basic Operators </Introduction/tutorials/Basic Operators>
+    Iterable Objects </Introduction/tutorials/Iterable Objects>
+    Selection Control Flow </Introduction/tutorials/Selection Control Flow>
+    Control Loops </Introduction/tutorials/Control Loops>
+
+
+Exercises
+__________
