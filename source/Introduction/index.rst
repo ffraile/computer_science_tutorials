@@ -20,6 +20,3 @@ This section contains some basic tutorials:
     Selection Control Flow </Introduction/tutorials/Selection Control Flow>
     Control Loops </Introduction/tutorials/Control Loops>
 
-
-Exercises
-__________
