@@ -1,0 +1,8 @@
+ipykernel
+sphinx
+nbsphinx
+sphinx-gallery
+pandas
+numpy
+matplotlib
+pulp
