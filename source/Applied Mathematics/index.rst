@@ -1,0 +1,20 @@
+Applied Mathematics
+===================================
+Welcome to this chapter on applied mathematics. This chapter contains notebooks and exercises that will help you solve
+complex problems in engineering and management using applied mathematics. We will primarily use two popular libraries
+named `Numpy <https://numpy.org/>`_ and `Scipy <https://scipy.org/>`_ to solve matrix algebra problems, differential equations, or other numerical problems. The Notebooks
+in this section will cover the following topics:
+
+Tutorials
+__________
+This section contains some basic tutorials:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+    :glob:
+    :titlesonly:
+
+    Introduction to Numpy </Introduction/Applied Mathematics/Numpy tutorial>
+
+

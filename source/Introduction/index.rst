@@ -13,6 +13,7 @@ This section contains some basic tutorials:
     :titlesonly:
 
     Introduction to Computer Programming </Introduction/tutorials/Introduction to Computer Programming>
+    Hello world! </Introduction/tutorials/Hello World>
     Working with Markdown cells </Introduction/tutorials/Working with Markdown cells>
     Variables </Introduction/tutorials/Variables>
     Basic Operators </Introduction/tutorials/Basic Operators>
