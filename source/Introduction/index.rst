@@ -13,7 +13,7 @@ This section contains some basic tutorials:
     :titlesonly:
 
     Introduction to Computer Programming </Introduction/tutorials/Introduction to Computer Programming>
-    Hello world! </Introduction/tutorials/Hello World>
+    Hello world </Introduction/tutorials/Hello World>
     Working with Markdown cells </Introduction/tutorials/Working with Markdown cells>
     Variables </Introduction/tutorials/Variables>
     Basic Operators </Introduction/tutorials/Basic Operators>
@@ -21,3 +21,14 @@ This section contains some basic tutorials:
     Selection Control Flow </Introduction/tutorials/Selection Control Flow>
     Control Loops </Introduction/tutorials/Control Loops>
 
+Tutorials
+__________
+This section contains some exercises:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+    :glob:
+    :titlesonly:
+
+    Hello world exercises </Introduction/exercises/0. Hello world>
