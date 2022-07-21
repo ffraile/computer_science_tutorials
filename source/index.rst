@@ -47,4 +47,5 @@ This book is currently being developed by a group of researchers and academics f
 
 - **Universitat Politècnica de València**
    - `Francisco Fraile <https://www.linkedin.com/in/franciscofraile/>`_ "Hi, I am a senior researcher at the Research Center on Production Engineering and Management at UPV, and a passionate technomaniac who likes anything related to computer science. I teach computer science and operations research at EDEM and the main author of this book. I also like any sci-fi gender and I am prone to add easter eggs in my tutorials and exercises."
+   - `Miguel A. Mateo-Casalí <https://www.linkedin.com/in/miguel-a-mateo-casali-bb335a66>`__ "Hello, I am a researcher at the UPV's Production Engineering and Management Research Centre and I love all topics related to computer systems and automation. I am a contributor to this book in the distributed computing section. I love archery, videogames and pizzas as a service."
 If you are a teacher and would like to contribute to this online book, please do not hesitate to contact me and I will be glad to discuss how to integrate your valuable input.

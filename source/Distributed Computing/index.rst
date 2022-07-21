@@ -18,10 +18,7 @@ This section contains some basic tutorials:
     :titlesonly:
 
     Introduction to Cloud Universe </Distributed Computing/tutorials/Introduction to Cloud Universe>
-    Hello world </Introduction/tutorials/Hello World>
-    Working with Markdown cells </Introduction/tutorials/Working with Markdown cells>
-    Variables </Introduction/tutorials/Variables>
-    Basic Operators </Introduction/tutorials/Basic Operators>
-    Iterable Objects </Introduction/tutorials/Iterable Objects>
-    Selection Control Flow </Introduction/tutorials/Selection Control Flow>
-    Control Loops </Introduction/tutorials/Control Loops>
+    Cloud and Edge Computing </Distributed Computing/tutorials/Cloud and Edge Computing>
+    Cloud services and deployment models </Distributed Computing/tutorials/Cloud services and deployment models>
+    Cloud computing components </Distributed Computing/tutorials/Cloud computing components>
+
