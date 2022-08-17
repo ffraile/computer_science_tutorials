@@ -1,7 +1,7 @@
 Distributed Computing
 ======================
 
-.. image:: img/snoopy.png
+.. image:: ./img/snoopy.png
   :width: 200
   :alt: Clouds are beautiful
 
@@ -9,7 +9,7 @@ Welcome to the final chapter of this book! Down below you can check the contents
 
 Tutorials
 __________
-This section contains some basic tutorials:
+This section contains some basic concepts:
 
 .. toctree::
     :maxdepth: 2
@@ -18,7 +18,7 @@ This section contains some basic tutorials:
     :titlesonly:
 
     Introduction to Cloud Universe </Distributed Computing/tutorials/Introduction to Cloud Universe>
-    Cloud and Edge Computing </Distributed Computing/tutorials/Cloud and Edge Computing>
-    Cloud services and deployment models </Distributed Computing/tutorials/Cloud services and deployment models>
-    Cloud computing components </Distributed Computing/tutorials/Cloud computing components>
+    Cloud Models And Services </Distributed Computing/tutorials/Cloud Models And Services>
+    Cloud Architectures </Distributed Computing/tutorials/Cloud Architectures>
+    Cloud Computing Components </Distributed Computing/tutorials/Cloud Computing Components>
 
