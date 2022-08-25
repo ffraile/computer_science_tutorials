@@ -22,3 +22,15 @@ This section contains some basic concepts:
     Cloud Architectures </Distributed Computing/tutorials/Cloud Architectures>
     Cloud Computing Components </Distributed Computing/tutorials/Cloud Computing Components>
 
+
+Exercices
+__________
+This section contains some exercices:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+    :glob:
+    :titlesonly:
+
+    Introduction to Docker </Distributed Computing/exercises/Docker>
