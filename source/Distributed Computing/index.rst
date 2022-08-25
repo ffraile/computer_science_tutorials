@@ -34,3 +34,5 @@ This section contains some exercices:
     :titlesonly:
 
     Introduction to Docker </Distributed Computing/exercises/Docker>
+    First service in AWS </Distributed Computing/exercises/aws>
+
