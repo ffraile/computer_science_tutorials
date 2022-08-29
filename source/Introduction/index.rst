@@ -3,7 +3,7 @@ Introduction to Python Programming
 Welcome to the first chapter of this book! Down below you can check the contents of this chapter:
 
 Tutorials
-p__________
+__________
 This section contains some basic tutorials:
 
 .. toctree::
@@ -12,17 +12,10 @@ This section contains some basic tutorials:
     :glob:
     :titlesonly:
 
-    Introduction to Computer Programming </Introduction/tutorials/Introduction to Computer Programming>
-    Hello world </Introduction/tutorials/Hello World>
-    Working with Markdown cells </Introduction/tutorials/Working with Markdown cells>
-    Variables </Introduction/tutorials/Variables>
-    Basic Control Structures </Introduction/tutorials/Basic Control Structures>
-    Iterable Objects I</Introduction/tutorials/Iterable Objects I>
-    Iterable Objects II</Introduction/tutorials/Iterable Objects II>
-    Functions </Introduction/tutorials/Functions>
-    Object Oriented Programming </Introduction/tutorials/Objects>
+    Functions </Modularization/tutorials/Functions>
+    Object Oriented Programming </Modularization/tutorials/Objects>
 
-Tutorials
+Exercises
 __________
 This section contains some exercises:
 
@@ -32,4 +25,4 @@ This section contains some exercises:
     :glob:
     :titlesonly:
 
-    Hello world exercises </Introduction/exercises/0. Hello world>
+    Functions and Objects </Modularization/exercises/5. Functions and Objects>
