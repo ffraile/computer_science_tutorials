@@ -1,0 +1,3 @@
+Hello,
+This is the first file to try in Python.
+Best luck!
