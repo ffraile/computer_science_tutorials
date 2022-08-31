@@ -15,9 +15,9 @@ This section contains some basic tutorials:
     :titlesonly:
 
     Introduction </Data Manipulation/tutorials/Introduction>
-    Working with Basic File Formats for Data Storage </Data Manipulation/tutorials/Files Formats>
-    Data Manipulation with Pandas </Data Manipulation/tutorials/Pandas>
-    Data Visualization with Matplotlib </Data Manipulation/tutorials/Matplotlib>
+    Working with Basic File Formats for Data Storage </Data Manipulation/tutorials/Files>
+    Data Manipulation with Pandas </Data Manipulation/tutorials/Pandas tutorial>
+    Data Visualization with Matplotlib </Data Manipulation/tutorials/Matplotlib tutorial>
 
 Exercises
 __________

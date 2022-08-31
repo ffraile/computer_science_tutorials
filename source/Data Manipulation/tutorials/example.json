@@ -1,0 +1,32 @@
+[
+{
+  "date": "2022-08-31",
+  "time": "00:15",
+  "temperature": 25.5,
+  "humidity": 65
+},
+{
+  "date": "2022-08-31",
+  "time": "00:30",
+  "temperature": 25.6,
+  "humidity": 66
+},
+{
+  "date": "2022-08-31",
+  "time": "00:45",
+  "temperature": 25.7,
+  "humidity": 67
+},
+{
+  "date": "2022-08-31",
+  "time": "01:00",
+  "temperature": 25.6,
+  "humidity": 66
+},
+{
+  "date": "2022-08-31",
+  "time": "01:15",
+  "temperature": 25.5,
+  "humidity": 65
+}
+]
