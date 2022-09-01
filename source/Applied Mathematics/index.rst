@@ -15,13 +15,13 @@ This section contains some basic tutorials:
     :glob:
     :titlesonly:
 
-    Introduction to Numpy </Introduction/Applied Mathematics/tutorials/Numpy tutorial>
-    Matrix algebra with Numpy </Introduction/Applied Mathematics/tutorials/Matrix algebra with Numpy>
+    Introduction to Numpy </Applied Mathematics/tutorials/Numpy tutorial>
 
 
 Exercises
 ---------
 This section contains some exercises:
+
 .. toctree::
     :maxdepth: 2
     :caption: Contents:
