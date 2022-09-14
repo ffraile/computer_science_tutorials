@@ -16,21 +16,24 @@ This sections contains a guide of the supporting materials for the materials use
 - **Lecture 1:** 
   - **Tutorials**:
     - [Tutorial 0. Intro to Computer Programming](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Introduction%20to%20Computer%20Programming.html)
-    - [Tutorial 1. Intro to Jupyter Notebooks (Hello World)](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Hello%20World.html)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Hello%20World.ipynb)
+    - [Tutorial 1. Intro to Jupyter Notebooks (Hello World)](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Hello%20World.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Hello%20World.ipynb)
   - **Class Exercises**:
-    - [Assignment 1: Basic programs with built-in functions](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/exercises/0.%20Hello%20world.html)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/exercises/0.%20Hello%20world.ipynb)
+    - [Assignment 1: Basic programs with built-in functions](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/exercises/0.%20Hello%20world.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/exercises/0.%20Hello%20world.ipynb)
     
 - **Lecture 2:** Variables and Basic Operations.
     - **Tutorials**:
-      - [Tutorial 2. Variables](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Variables.html)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Variables.ipynb)
+      - [Tutorial 2. Variables](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Variables.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Variables.ipynb)
     - **Class Exercises**:
-      - [Variables and Basic Operations](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/exercises/0.%20Hello%20world.html)
+      - [Assigment 2: Variables and Basic Operations]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 - **Lecture 3:** Basic Control Structures.
-    - [Tutorial 0. Working with markdown cells](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/0.%20Working%20with%20Markdown%20cells.ipynb)
-
+    - **Tutorials**:
+      - [Tutorial 3. Basic Control Structures]([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Basic%20Control%20Structures.ipynb)
+    - **Class Exercises**:
+      - [Assignment 3: Basic Control Structures]()[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/exercises/2.%20Basic%20Control%20Structures.ipynb)
+      
 - **Lecture 4:** Fundamentals of programming. Variables and basic operations
-    - [Tutorial 1. Variables](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/1.%20Variables.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/1.%20Variables.ipynb)
+    - [Tutorial 1. Variables](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/1.%20Variables.ipynb) [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/1.%20Variables.ipynb)
     - [Class Exercises 1. Variables](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Class%20Exercises/1.%20Variables.ipynb)
     - [Tutorial 2. Basic Operations](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/2.%20Basic%20Operators.ipynb)
     - [Class Exercises 2. Basic Operations](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Class%20Exercises/2.%20Basic%20Operators.ipynb)
