@@ -1,10 +1,10 @@
-Introduction to Modularization
+Introduction to Computer Programming
 ===================================
 Welcome to the first chapter of this book! Down below you can check the contents of this chapter:
 
 Tutorials
-p__________
-This section contains some basic tutorials:
+__________
+This section contains links to the tutorials in this unit:
 
 .. toctree::
     :maxdepth: 2
@@ -22,9 +22,9 @@ This section contains some basic tutorials:
     Functions </Introduction/tutorials/Functions>
     Object Oriented Programming </Introduction/tutorials/Objects>
 
-Tutorials
+Exercises
 __________
-This section contains some exercises:
+This section contains links to the class exercises:
 
 .. toctree::
     :maxdepth: 2

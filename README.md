@@ -1,18 +1,32 @@
-# computer_science_tutorials
-This project contains tutorials and exercises for the course on Computer Sciences of the Bsc in Engineering and Management at [EDEM](https://edem.es/). 
-The course is organised in to the following folders: 
+# Notebooks for Computer Science
+This page provides a guide to the Notebooks used in the coursecontains tutorials and exercises for the course on Computer Sciences of the Bsc in Engineering and Management at [EDEM](https://edem.es/). 
+The course will cover two teaching units with this online book:
+- **Programming Fundamentals**: Learn computer programming fundamentals with Python
+- **Databases**: Learn the basics of database systems and structured query language programming
+
+Each teaching unit contains:
 - **Tutorials:** Follow along tutorials for each of the classes. 
-- **Class Exercises:** Exercises to do during class to better understand the content.
+- **Class Exercises:** Exercises to do during class to better understand the content. Class exercises **must** be submitted after every class.
 - **Extra Exercises:** Extra exercises you can do prepare for the exam
-- **Class Examples:** Code snippets and examples used in class
 
-This project provides supporting materials for the course at EDEM and students are encourage to read the tutorials and perform the exercises following along the lectures. This is the guide and recommended order to read the tutorials and do the exercises: 
-- **Lecture 1:** Fundamentals of programming. SW development life cycle 1 
-    - (No supporting materials)
-- **Lecture 2:** Fundamentals of programming. Intro to Git.
-    - (No supporting materials)
+## Programming Fundamentals
 
-- **Lecture 3:** Fundamentals of programming. Classification of programming languages and intro to Jupyter Notebooks
+This sections contains a guide of the supporting materials for the materials used in each lecture: 
+
+- **Lecture 1:** 
+  - **Tutorials**:
+    - [Tutorial 0. Intro to Computer Programming](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Introduction%20to%20Computer%20Programming.html)
+    - [Tutorial 1. Intro to Jupyter Notebooks (Hello World)](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Hello%20World.html)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Hello%20World.ipynb)
+  - **Class Exercises**:
+    - [Assignment 1: Basic programs with built-in functions](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/exercises/0.%20Hello%20world.html)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/exercises/0.%20Hello%20world.ipynb)
+    
+- **Lecture 2:** Variables and Basic Operations.
+    - **Tutorials**:
+      - [Tutorial 2. Variables](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Variables.html)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Variables.ipynb)
+    - **Class Exercises**:
+      - [Variables and Basic Operations](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/exercises/0.%20Hello%20world.html)
+
+- **Lecture 3:** Basic Control Structures.
     - [Tutorial 0. Working with markdown cells](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/0.%20Working%20with%20Markdown%20cells.ipynb)
 
 - **Lecture 4:** Fundamentals of programming. Variables and basic operations
