@@ -28,15 +28,16 @@ This sections contains a guide of the supporting materials for the materials use
 
 - **Lecture 3:** Basic Control Structures.
     - **Tutorials**:
-      - [Tutorial 3. Basic Control Structures]([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Basic%20Control%20Structures.ipynb)
+      - [Tutorial 3. Basic Control Structures](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Basic%20Control%20Structures.html) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Basic%20Control%20Structures.ipynb)
     - **Class Exercises**:
-      - [Assignment 3: Basic Control Structures]()[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/exercises/2.%20Basic%20Control%20Structures.ipynb)
+      - [Assignment 3: Basic Control Structures](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/exercises/2.%20Basic%20Control%20Structures.html)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/exercises/2.%20Basic%20Control%20Structures.ipynb)
       
-- **Lecture 4:** Fundamentals of programming. Variables and basic operations
-    - [Tutorial 1. Variables](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/1.%20Variables.ipynb) [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/1.%20Variables.ipynb)
-    - [Class Exercises 1. Variables](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Class%20Exercises/1.%20Variables.ipynb)
-    - [Tutorial 2. Basic Operations](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/2.%20Basic%20Operators.ipynb)
-    - [Class Exercises 2. Basic Operations](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Class%20Exercises/2.%20Basic%20Operators.ipynb)
+- **Lecture 4:** Iterable Objects
+  - **Tutorials**:
+      - [Tutorial 1. Variables](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/1.%20Variables.ipynb) [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/1.%20Variables.ipynb)
+      - [Class Exercises 1. Variables](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Class%20Exercises/1.%20Variables.ipynb)
+      - [Tutorial 2. Basic Operations](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/2.%20Basic%20Operators.ipynb)
+      - [Class Exercises 2. Basic Operations](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Class%20Exercises/2.%20Basic%20Operators.ipynb)
 
 - **Lecture 5:** Fundamentals of programming. Structure Theorem
     - [Tutorial 3. Selection Control Flow](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Tutorials/3.%20Selection%20Control%20Flow.ipynb)

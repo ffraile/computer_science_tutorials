@@ -19,8 +19,6 @@ This section contains links to the tutorials in this unit:
     Basic Control Structures </Introduction/tutorials/Basic Control Structures>
     Iterable Objects I</Introduction/tutorials/Iterable Objects I>
     Iterable Objects II</Introduction/tutorials/Iterable Objects II>
-    Functions </Introduction/tutorials/Functions>
-    Object Oriented Programming </Introduction/tutorials/Objects>
 
 Exercises
 __________
@@ -35,4 +33,4 @@ This section contains links to the class exercises:
     Hello world exercises </Introduction/exercises/0. Hello world>
     Variables and Basic Operations </Introduction/exercises/1. Variables and Basic Operations>
     Basic Control Structures </Introduction/exercises/2. Basic Control Structures>
-    Iterables <Introduction/exercises/3. Iterables>
+    Iterables </Introduction/exercises/3. Iterables>
