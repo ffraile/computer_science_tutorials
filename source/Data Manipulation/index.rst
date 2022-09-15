@@ -28,3 +28,5 @@ This section contains some exercises:
     :caption: Contents:
     :glob:
     :titlesonly:
+    Pandas Dataframes </Data Manipulation/exercises/Pandas Dataframes>
+
