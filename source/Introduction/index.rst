@@ -30,7 +30,7 @@ This section contains links to the class exercises:
     :glob:
     :titlesonly:
 
-    Hello world exercises </Introduction/exercises/0. Hello world>
-    Variables and Basic Operations </Introduction/exercises/1. Variables and Basic Operations>
-    Basic Control Structures </Introduction/exercises/2. Basic Control Structures>
-    Iterables </Introduction/exercises/3. Iterables>
+    Hello world exercises</Introduction/exercises/0. Hello world>
+    Variables and Basic Operations Exercises</Introduction/exercises/1. Variables and Basic Operations>
+    Basic Control Structures Exercises</Introduction/exercises/2. Basic Control Structures>
+    Iterables Exercises</Introduction/exercises/3. Iterables>
