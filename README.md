@@ -9,7 +9,7 @@ Each teaching unit contains:
 - **Class Exercises:** Exercises to do during class to better understand the content. Class exercises **must** be submitted after every class.
 - **Exam Exercises:** Extra exercises you can do prepare for the exam
 
-## Programming Fundamentals
+## Programming Fundamentals <a name=programming></a> 
 
 This sections contains a guide of the supporting materials for the materials used in each lecture: 
 
@@ -54,10 +54,10 @@ This sections contains a guide of the supporting materials for the materials use
 
 - **Lecture 7:** Array Programming
   - **Tutorials**:
-      - [Tutorial 9. Introduction to Numpy]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
-      - [Tutorial 10. Linear Algebra with Numpy]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
+      - [Tutorial 9. Introduction to Numpy]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Applied%20Mathematics/tutorials/Numpy%20tutorial.ipynb)
+      - [Tutorial 10. Linear Algebra with Numpy]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Applied%20Mathematics/tutorials/Linear%20Algebra%20with%20Numpy.ipynb)
   - **Exercises**:
-    - [Assigment 7. Numpy]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
+    - [Assigment 7. Numpy]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Applied%20Mathematics/exercises/Numpy%20arrays.ipynb)
 - **Lecture 8:** Data Manipulation and Analysis
   - **Tutorials**:
     - [Tutorial 11. Files](https://computer-science-tutorials.readthedocs.io/en/latest/Data%20Manipulation/tutorials/Files.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
