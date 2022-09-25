@@ -1,5 +1,5 @@
 Introduction to Computer Programming
-===================================
+====================================
 Welcome to the first chapter of this book! Down below you can check the contents of this chapter:
 
 Tutorials
