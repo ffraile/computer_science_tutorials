@@ -30,3 +30,15 @@ This section contains some exercises:
     :titlesonly:
 
     Numpy arrays </Applied Mathematics/exercises/Numpy arrays>
+
+Challenges
+---------
+This section contains challenges:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+    :glob:
+    :titlesonly:
+
+    Riddle impossible to solve, possibly </Applied Mathematics/Challenges/Riddle impossible to solve, possibly>
