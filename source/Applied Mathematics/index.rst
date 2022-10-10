@@ -16,7 +16,7 @@ This section contains some basic tutorials:
     :titlesonly:
 
     Introduction to Numpy </Applied Mathematics/tutorials/Numpy tutorial>
-    Matrix algebra with Numpy </Applied Mathematics/tutorials/Matrix Algebra with Numpy>
+    Matrix algebra with Numpy </Applied Mathematics/tutorials/Linear Algebra with Numpy>
 
 
 Exercises

@@ -24,7 +24,7 @@ This sections contains a guide of the supporting materials for the materials use
     - **Tutorials**:
       - [Tutorial 2. Variables](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Variables.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Variables.ipynb)
     - **Class Exercises**:
-      - [Assigment 2: Variables and Basic Operations]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
+      - [Assigment 2: Variables and Basic Operations](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/exercises/1.%20Variables%20and%20Basic%20Operations.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/exercises/1.%20Variables%20and%20Basic%20Operations.ipynb)
 
 - **Lecture 3:** Basic Control Structures.
     - **Tutorials**:
@@ -41,29 +41,29 @@ This sections contains a guide of the supporting materials for the materials use
 
 - **Lecture 5:** Functions
   - **Tutorials**:
-      - [Tutorial 6. Functions]() [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
+      - [Tutorial 6. Functions](https://computer-science-tutorials.readthedocs.io/en/latest/Modularization/tutorials/Functions.html) [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Modularization/tutorials/Functions.ipynb)
   - **Exercises**:
-      - [Assignment 5: Functions]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
+      - [Assignment 5: Functions](https://computer-science-tutorials.readthedocs.io/en/latest/Modularization/exercises/4.%20Functions.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Modularization/exercises/4.%20Functions.ipynb)
 
 - **Lecture 6:** Object Oriented design
   - **Tutorials**:
-      - [Tutorial 7. Objects]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
-      - [Tutorial 8. Importing External Modules]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
+      - [Tutorial 7. Objects](https://computer-science-tutorials.readthedocs.io/en/latest/Modularization/tutorials/Objects.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Objects.ipynb)
+      - [Tutorial 8. Importing External Modules](https://computer-science-tutorials.readthedocs.io/en/latest/Modularization/tutorials/Modules.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Modularization/tutorials/Modules.ipynb)
   - **Exercises**:
-    - [Assignment 6. Objects]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
+    - [Assignment 6. Objects](https://computer-science-tutorials.readthedocs.io/en/latest/Modularization/exercises/5.%20Objects.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Modularization/exercises/5.%20Objects.ipynb)
 
 - **Lecture 7:** Array Programming
   - **Tutorials**:
       - [Tutorial 9. Introduction to Numpy]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Applied%20Mathematics/tutorials/Numpy%20tutorial.ipynb)
       - [Tutorial 10. Linear Algebra with Numpy]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Applied%20Mathematics/tutorials/Linear%20Algebra%20with%20Numpy.ipynb)
   - **Exercises**:
-    - [Assigment 7. Numpy]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Applied%20Mathematics/exercises/Numpy%20arrays.ipynb)
+    - [Assigment 7. Numpy](https://computer-science-tutorials.readthedocs.io/en/latest/Applied%20Mathematics/exercises/Numpy%20arrays.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Applied%20Mathematics/exercises/Numpy%20arrays.ipynb)
 - **Lecture 8:** Data Manipulation and Analysis
   - **Tutorials**:
-    - [Tutorial 11. Files](https://computer-science-tutorials.readthedocs.io/en/latest/Data%20Manipulation/tutorials/Files.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
+    - [Tutorial 11. Files](https://computer-science-tutorials.readthedocs.io/en/latest/Data%20Manipulation/tutorials/Files.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Data%20Manipulation/tutorials/Files.ipynb)
     - [Tutorial 12. Data Manipulation with Pandas](https://computer-science-tutorials.readthedocs.io/en/latest/Data%20Manipulation/tutorials/Pandas%20tutorial.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Data%20Manipulation/tutorials/Pandas%20tutorial.ipynb)
   - **Exercises**:
-    - [Assignment 8. Data manipulation]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)]()
+    - [Assignment 8. Data manipulation](https://computer-science-tutorials.readthedocs.io/en/latest/Data%20Manipulation/exercises/Pandas%20Dataframes.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Data%20Manipulation/exercises/Pandas%20Dataframes.ipynb)
 
 - **Lecture 9**: Data Manipulation and Analysis II
   - **Tutorials**:
