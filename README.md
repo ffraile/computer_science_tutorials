@@ -37,7 +37,7 @@ This sections contains a guide of the supporting materials for the materials use
       - [Tutorial 4. Iterable Objects I](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Iterable%20Objects%20I.html) [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Iterable%20Objects%20I.ipynb)
       - [Tutorial 5. Iterable Objects II](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Iterable%20Objects%20II.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Iterable%20Objects%20II.ipynb)
   - **Exercises**:
-    - [Assignment 4: Iterables](https://github.com/ffraile/computer_science_tutorials/blob/main/Programming/Class%20Exercises/2.%20Basic%20Operators.ipynb)
+    - [Assignment 4: Iterables](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/exercises/3.%20Iterables.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/exercises/3.%20Iterables.ipynb)
 
 - **Lecture 5:** Functions
   - **Tutorials**:

@@ -18,6 +18,7 @@ This section contains links to the tutorials in this unit:
     Variables </Introduction/tutorials/Variables>
     Basic Control Structures </Introduction/tutorials/Basic Control Structures>
     Iterable Objects I</Introduction/tutorials/Iterable Objects I>
+    For Loops </Introduction/tutorials/For Control Loop>
     Iterable Objects II</Introduction/tutorials/Iterable Objects II>
 
 Exercises
