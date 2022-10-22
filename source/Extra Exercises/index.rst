@@ -18,10 +18,10 @@ This section contains links to the tutorials in this unit:
     Shopping List </Extra Exercises/Ex4. Shopping List>
     Bank job </Extra Exercises/Ex5 - Bank job>
     Chatbot </Extra Exercises/Ex6 - Chatbot>
-    Financebot </Extra Exercises/Ex7 - Financebot>
+    Financebot </Extra Exercises/Ex7- Financebot>
     Pizzabot </Extra Exercises/Ex8 - Pizzabot>
-    Padovan Sequence Generator </Extra Exercises/ Ex9. Padovan>
-    Game Statistics </Extra Exercises/ Ex10. Game Statistics>
+    Padovan Sequence Generator </Extra Exercises/Ex9. Padovan>
+    Game Statistics </Extra Exercises/Ex10. Game Statistics>
 
 
 Solutions
@@ -40,7 +40,7 @@ This section contains links to the class exercises:
     Shopping List </Extra Exercises/Ex4. Shopping List (SOL)>
     Bank job </Extra Exercises/Ex5 - Bank job (Solved)>
     Chatbot </Extra Exercises/Ex6 - Chatbot (Solved)>
-    Financebot </Extra Exercises/Ex7 - Financebot (Solved)>
+    Financebot </Extra Exercises/Ex7- Financebot (Solved)>
     Pizzabot </Extra Exercises/Ex8 - Pizzabot (Solved)>
-    Padovan Sequence Generator </Extra Exercises/ Ex9. Padovan (Solved)>
-    Game Statistics </Extra Exercises/ Ex10. Game Statistics (solved)>
+    Padovan Sequence Generator </Extra Exercises/Ex9. Padovan (Solved)>
+    Game Statistics </Extra Exercises/Ex10. Game Statistics (solved)>
