@@ -47,7 +47,7 @@ CREATE TABLE Cars (
     FOREIGN KEY (EmployeeId) REFERENCES Employees(Id)
 );
 
--- data
+-- datasets
 INSERT INTO Departments
     (Id, Name)
 VALUES
