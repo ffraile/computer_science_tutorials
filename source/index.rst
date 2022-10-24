@@ -32,6 +32,17 @@ With this said, we are ready to get started! But before you do, I think it is im
    Software engineering and project management <Software Engineering/index.rst>
    Distributed computing <Distributed Computing/index.rst>
 
+Extra Exercises
+================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Exercises:
+   :glob:
+
+   Python Programming <Extra Exercises/index.rst>
+
+
 Search Page
 ==================
 

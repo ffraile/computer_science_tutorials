@@ -26,4 +26,5 @@ This section contains some exercises:
     :glob:
     :titlesonly:
 
-    Functions and Objects </Modularization/exercises/5. Functions and Objects>
+    Functions Exercises </Modularization/exercises/4. Functions>
+    Objects Exercise </Modularization/exercises/5. Objects>

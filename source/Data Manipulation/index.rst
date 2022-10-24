@@ -1,5 +1,5 @@
 Introduction to Data Manipulation and Analysis
-===================================
+==============================================
 Welcome to this chapter on data manipulation and extraction with Python. In this chapter, we will explain the importance of data
 manipulation and Analysis, and provide an introduction to the libraries Pandas and Matplotlib. The main objective is to acquire
 some basic understanding and skills of data manipulation and visualization using Python.
@@ -28,3 +28,6 @@ This section contains some exercises:
     :caption: Contents:
     :glob:
     :titlesonly:
+
+    Pandas Dataframes </Data Manipulation/exercises/Pandas Dataframes>
+

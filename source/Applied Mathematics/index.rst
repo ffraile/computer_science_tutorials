@@ -16,6 +16,7 @@ This section contains some basic tutorials:
     :titlesonly:
 
     Introduction to Numpy </Applied Mathematics/tutorials/Numpy tutorial>
+    Matrix algebra with Numpy </Applied Mathematics/tutorials/Linear Algebra with Numpy>
 
 
 Exercises
@@ -28,7 +29,16 @@ This section contains some exercises:
     :glob:
     :titlesonly:
 
-    Numpy arrays </Introduction/Applied Mathematics/exercises/Numpy arrays>
+    Numpy arrays </Applied Mathematics/exercises/Numpy arrays>
 
+Challenges
+---------
+This section contains challenges:
 
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+    :glob:
+    :titlesonly:
 
+    Riddle impossible to solve, possibly </Applied Mathematics/Challenges/Riddle impossible to solve, possibly>
