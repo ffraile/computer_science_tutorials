@@ -5,7 +5,7 @@ from os.path import sep, join, exists, getmtime
 from os import mkdir
 import sys
 import json
-template_folders = ['Introduction', 'Modularization', 'Applied Mathematics', 'Data Manipulation', 'Databases']
+template_folders = ['Introduction', 'Modularization', 'Applied Mathematics', 'Data Manipulation', 'Databases', 'Extra Exercises']
 # loader = FileSystemLoader(template_folders)
 # env = Environment(loader=loader,     autoescape=select_autoescape(['html', 'xml']))
 
