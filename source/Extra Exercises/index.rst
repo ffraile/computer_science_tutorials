@@ -16,6 +16,7 @@ This section contains links to the tutorials in this unit:
     Quadratic formula </Extra Exercises/Ex2. Quadratic>
     Student Marks </Extra Exercises/Ex3. Student Marks>
     Shopping List </Extra Exercises/Ex4. Shopping List>
+    Harshad Numbers </Extra Exercises/Harshad Numbers>
     Bank job </Extra Exercises/Ex5 - Bank job>
     Chatbot </Extra Exercises/Ex6 - Chatbot>
     Financebot </Extra Exercises/Ex7- Financebot>
@@ -38,6 +39,7 @@ This section contains links to the class exercises:
     Quadratic formula </Extra Exercises/Ex2. Quadratic (SOL)>
     Student Marks </Extra Exercises/Ex3. Student Marks (SOL)>
     Shopping List </Extra Exercises/Ex4. Shopping List (SOL)>
+    Harshad Numbers </Extra Exercises/Harshad Numbers (Solved)>
     Bank job </Extra Exercises/Ex5 - Bank job (Solved)>
     Chatbot </Extra Exercises/Ex6 - Chatbot (Solved)>
     Financebot </Extra Exercises/Ex7- Financebot (Solved)>
