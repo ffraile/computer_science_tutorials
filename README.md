@@ -32,28 +32,29 @@ This sections contains a guide of the supporting materials for the materials use
     - **Class Exercises**:
       - [Assignment 3: Basic Control Structures](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/exercises/2.%20Basic%20Control%20Structures.html)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/exercises/2.%20Basic%20Control%20Structures.ipynb)
       
-- **Lecture 4:** Iterable Objects
+- **Lectures 4-5:** Iterable Objects
   - **Tutorials**:
       - [Tutorial 4. Iterable Objects I](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Iterable%20Objects%20I.html) [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Iterable%20Objects%20I.ipynb)
       - [Tutorial 5. Iterable Objects II](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/tutorials/Iterable%20Objects%20II.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Iterable%20Objects%20II.ipynb)
   - **Exercises**:
     - [Assignment 4: Iterables](https://computer-science-tutorials.readthedocs.io/en/latest/Introduction/exercises/3.%20Iterables.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/exercises/3.%20Iterables.ipynb)
 
-- **Lecture 5:** Functions
+- **Lecture 6:** Functions
   - **Tutorials**:
       - [Tutorial 6. Functions](https://computer-science-tutorials.readthedocs.io/en/latest/Modularization/tutorials/Functions.html) [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Modularization/tutorials/Functions.ipynb)
   - **Exercises**:
       - [Assignment 5: Functions](https://computer-science-tutorials.readthedocs.io/en/latest/Modularization/exercises/4.%20Functions.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Modularization/exercises/4.%20Functions.ipynb)
 
-- **Lecture 6:** Object Oriented design
+- ~~**Lecture 6:** Object Oriented design~~ (**Not covered in class**)
   - **Tutorials**:
       - [Tutorial 7. Objects](https://computer-science-tutorials.readthedocs.io/en/latest/Modularization/tutorials/Objects.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Introduction/tutorials/Objects.ipynb)
-      - [Tutorial 8. Importing External Modules](https://computer-science-tutorials.readthedocs.io/en/latest/Modularization/tutorials/Modules.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Modularization/tutorials/Modules.ipynb)
+      
   - **Exercises**:
     - [Assignment 6. Objects](https://computer-science-tutorials.readthedocs.io/en/latest/Modularization/exercises/5.%20Objects.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Modularization/exercises/5.%20Objects.ipynb)
 
 - **Lecture 7:** Array Programming
   - **Tutorials**:
+      - [Tutorial 8. Importing External Modules](https://computer-science-tutorials.readthedocs.io/en/latest/Modularization/tutorials/Modules.html)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Modularization/tutorials/Modules.ipynb)
       - [Tutorial 9. Introduction to Numpy]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Applied%20Mathematics/tutorials/Numpy%20tutorial.ipynb)
       - [Tutorial 10. Linear Algebra with Numpy]()[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Applied%20Mathematics/tutorials/Linear%20Algebra%20with%20Numpy.ipynb)
   - **Exercises**:
@@ -74,21 +75,25 @@ This sections contains a guide of the supporting materials for the materials use
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex1.%20Fibonacci%20(SOL).ipynb)
 - Exercise 2. Quadratic Equations [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex2.%20Quadratic.ipynb)
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex2.%20Quadratic%20(SOL).ipynb)
-- Exercise 3. Student Marks [![Open in Colabs]](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex3.%20Student%20Marks.ipynb)(Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex3.%20Student%20Marks.ipynb)
+- Exercise 3. Student Marks [![Open in Colabs]](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex3.%20Student%20Marks.ipynb)
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex3.%20Student%20Marks%20(SOL).ipynb)
 - Exercise 4. Shopping List [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex4.%20Shopping%20List.ipynb)
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex4.%20Shopping%20List%20(SOL).ipynb)
-- Exercise 5. Bank job [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex5.%20Bank%20job.ipynb)
+- Exercise 5. Harshad Numbers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Harshad%20Numbers.ipynb)
+  - (Solved)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Harshad%20Numbers%20(Solved).ipynb)
+- Exercise 6. The Dice Man [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Dice%20Man.ipynb)
+  - (Solved)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Dice%20Man%20(Solved).ipynb)
+- Exercise 7. Bank job [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex5.%20Bank%20job.ipynb)
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex5.%20Bank%20job%20(SOL).ipynb)
-- Exercise 6. Chatbot [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex6.%20Chatbot.ipynb)
+- Exercise 8. Chatbot [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex6.%20Chatbot.ipynb)
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex6.%20Chatbot%20(SOL).ipynb)
-- Exercise 7. FinanceBot [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex7.%20FinanceBot.ipynb)
+- Exercise 9. FinanceBot [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex7.%20FinanceBot.ipynb)
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex7.%20FinanceBot%20(SOL).ipynb)
-- Exercise 8. PizzaBot [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex8.%20PizzaBot.ipynb)
+- Exercise 10. PizzaBot [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex8.%20PizzaBot.ipynb)
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex8.%20PizzaBot%20(SOL).ipynb)
 - Exercise 9. Padovan Sequence [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex9.%20Padovan%20Sequence.ipynb)
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex9.%20Padovan%20Sequence%20(SOL).ipynb)
+- Exercise 10. Thue-Morse Sequence [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Thue-Morse%20Sequence.ipynb)
+  - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Thue-Morse%20Sequence%20(Solved).ipynb)
 - Exercise 10. Game Statistics [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex10.%20Game%20Statistics.ipynb)
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex10.%20Game%20Statistics%20(SOL).ipynb)
-- Exercise 11. Squares [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex11.%20Squares.ipynb)
-  - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex11.%20Squares%20(SOL).ipynb) 
