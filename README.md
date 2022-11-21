@@ -11,7 +11,7 @@ Each teaching unit contains:
 
 ## Programming Fundamentals <a name=programming></a> 
 
-This sections contains a guide of the supporting materials for the materials used in each lecture: 
+This section contains a guide of the supporting materials for the materials used in each lecture: 
 
 - **Lecture 1:** 
   - **Tutorials**:
@@ -97,3 +97,5 @@ This sections contains a guide of the supporting materials for the materials use
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Thue-Morse%20Sequence%20(Solved).ipynb)
 - Exercise 10. Game Statistics [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex10.%20Game%20Statistics.ipynb)
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex10.%20Game%20Statistics%20(solved).ipynb)
+
+## Databases
