@@ -28,7 +28,7 @@ With this said, we are ready to get started! But before you do, I think it is im
    Modularization and object-oriented programming <Modularization/index.rst>
    Applied Mathematics <Applied Mathematics/index.rst>
    Data manipulation and analysis <Data Manipulation/index.rst>
-   Data Management and Structured Query Language (SQL) <SQL/index.rst>
+   Data Management and Structured Query Language (SQL) <Databases/index.rst>
    Software engineering and project management <Software Engineering/index.rst>
    Distributed computing <Distributed Computing/index.rst>
 

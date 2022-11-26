@@ -19,7 +19,7 @@ This section contains some basic tutorials:
     :glob:
     :titlesonly:
 
-    Introduction to databases </Databases/tutorials/0. Introduction to Databases>
+    Introduction to databases </Databases/tutorials/Introduction to Databases>
     Database Setup </Databases/tutorials/0. Practice Environment>
     Introduction to SQL </Databases/tutorials/1. Introduction to SQL>
     Indexing and Join clauses </Databases/tutorials/2. Indexing and Join clauses>
@@ -40,3 +40,23 @@ This section contains some exercises:
     Indexing and Join clauses </Databases/exercises/2. Indexing and Join clauses>
     Data type functions </Databases/exercises/3. Functions>
     Sorting and Grouping </Databases/exercises/4. Sorting and grouping>
+
+Extra Exercises
+_______________
+This section contains some extra exercises:
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+    :glob:
+    :titlesonly:
+
+    Project Timecards </Databases/Extra Exercises/project timecards>
+    Project Timecards Solution </Databases/Extra Exercises/project timecards (solved)>
+    Santa´s Little Helper </Databases/Extra Exercises/santas little helper>
+    Santa´s Little Helper Solution</Databases/Extra Exercises/santas little helper (solved)>
+    Super database </Databases/Extra Exercises/super database>
+    Super database Solution </Databases/Extra Exercises/super database (solved)>
+    Production Quality Database </Databases/Extra Exercises/Production quality database>
+    Production Quality Database Solution </Databases/Extra Exercises/Production quality database (solved)>
+    IIoT Database </Databases/Extra Exercises/IIoT data>
+    IIoT Database Solution </Databases/Extra Exercises/IIoT data (solved)>
