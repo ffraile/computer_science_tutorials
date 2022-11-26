@@ -1,6 +1,7 @@
 Introduction to Databases and Structured Query Language (SQL)
 ==============================================
 Welcome to this chapter on databases and SQL. In this chapter, we will cover the following topics:
+
 - What is a database and what are the main types of databases.
 - How to set up a database and how to connect to it.
 - How to create a database and how to create tables in a database.
@@ -36,14 +37,15 @@ This section contains some exercises:
     :glob:
     :titlesonly:
 
-    Introduction to SQL </Databases/exercises/1. Introduction to SQL>
-    Indexing and Join clauses </Databases/exercises/2. Indexing and Join clauses>
-    Data type functions </Databases/exercises/3. Functions>
-    Sorting and Grouping </Databases/exercises/4. Sorting and grouping>
+    Introduction to SQL </Databases/class exercises/1. Introduction to SQL>
+    Indexing and Join clauses </Databases/class exercises/2. Indexing and Join clauses>
+    Data type functions </Databases/class exercises/3. Functions>
+    Sorting and Grouping </Databases/class exercises/4. Sorting and grouping>
 
 Extra Exercises
 _______________
 This section contains some extra exercises:
+
 .. toctree::
     :maxdepth: 2
     :caption: Contents:
