@@ -98,4 +98,26 @@ This section contains a guide of the supporting materials for the materials used
 - Exercise 10. Game Statistics [![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex10.%20Game%20Statistics.ipynb)
   - (Solved)[![Open in Colabs](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Extra%20Exercises/Ex10.%20Game%20Statistics%20(solved).ipynb)
 
-## Databases
+## Databases <a name=databases></a> 
+- **Lecture 1: Introduction to SQL**:
+  - **Tutorials:**
+    - [Introduction to Databases](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/Introduction%20to%20Databases.html)
+    - [Introduction to SQL](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/1.%20Introduction%20to%20SQL.html)
+    - [Test environment](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/0.%20Practice%20environment.html)
+  - **Exercises**
+    - [Introduction to SQL Exercises](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/class%20exercises/1.%20Introduction%20to%20SQL.html)
+- **Lecture 2: Join queries**:
+  - **Tutorials:**
+    - [Indexing and Join clauses](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/2.%20Indexing%20and%20Join%20clauses.html)
+  - **Exercises:**
+    - [Join queries Exercises](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/class%20exercises/2.%20Join%20queries.html)
+- **Lecture 3: Data types and functions**:
+  - **Tutorials:**
+    - [Data types and functions](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/3.%20Data%20Type%20Functions.html)
+  - **Exercises:**
+    - [Data types and functions Exercises](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/3.%20Functions.html) 
+- ** Lecture 4: Sorting and grouping**:
+  - **Tutorials:**
+    - [Sorting and grouping](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/4.%20Sorting%20and%20grouping.html)
+  - **Exercises:**
+    - [Sorting and grouping Exercises](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/4.%20Sorting%20and%20grouping.html)

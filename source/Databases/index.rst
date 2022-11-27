@@ -21,7 +21,7 @@ This section contains some basic tutorials:
     :titlesonly:
 
     Introduction to databases </Databases/tutorials/Introduction to Databases>
-    Database Setup </Databases/tutorials/0. Practice Environment>
+    Test environment </Databases/tutorials/0. Practice environment>
     Introduction to SQL </Databases/tutorials/1. Introduction to SQL>
     Indexing and Join clauses </Databases/tutorials/2. Indexing and Join clauses>
     Data type functions </Databases/tutorials/3. Data Type Functions>
@@ -52,6 +52,10 @@ This section contains some extra exercises:
     :glob:
     :titlesonly:
 
+    Book database </Databases/Extra Exercises/Book database>
+    Book database solution </Databases/Extra Exercises/Book database (solved)>
+    Car retail database </Databases/Extra Exercises/Car retail>
+    Car retail database solution </Databases/Extra Exercises/Car retail (solved)>
     Project Timecards </Databases/Extra Exercises/project timecards>
     Project Timecards Solution </Databases/Extra Exercises/project timecards (solved)>
     Santa´s Little Helper </Databases/Extra Exercises/santas little helper>
