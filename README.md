@@ -110,14 +110,17 @@ This section contains a guide of the supporting materials for the materials used
   - **Tutorials:**
     - [Indexing and Join clauses](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/2.%20Indexing%20and%20Join%20clauses.html)
   - **Exercises:**
-    - [Join queries Exercises](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/class%20exercises/2.%20Join%20queries.html)
+    - [Join queries Exercises](https://colab.research.google.com/github/ffraile/computer_science_tutorials/blob/main/source/Databases/class%20exercises/2.%20Indexing%20and%20Join%20Operations.ipynb)
 - **Lecture 3: Data types and functions**:
   - **Tutorials:**
     - [Data types and functions](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/3.%20Data%20Type%20Functions.html)
   - **Exercises:**
     - [Data types and functions Exercises](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/3.%20Functions.html) 
-- ** Lecture 4: Sorting and grouping**:
+- **Lecture 4: Sorting and grouping**:
   - **Tutorials:**
     - [Sorting and grouping](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/4.%20Sorting%20and%20grouping.html)
   - **Exercises:**
     - [Sorting and grouping Exercises](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/4.%20Sorting%20and%20grouping.html)
+
+## Test databases <a name=test_databases></a>
+- [Folder with the databases used in the tutorials and exercises](https://github.com/ffraile/computer_science_tutorials/tree/main/source/Databases/test_databases)
