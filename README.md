@@ -115,7 +115,7 @@ This section contains a guide of the supporting materials for the materials used
   - **Tutorials:**
     - [Data types and functions](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/3.%20Data%20Type%20Functions.html)
   - **Exercises:**
-    - [Data types and functions Exercises](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/3.%20Functions.html) 
+    - [Data types and functions Exercises](https://github.com/ffraile/computer_science_tutorials/blob/main/source/Databases/tutorials/3.%20Data%20Type%20Functions.ipynb)
 - **Lecture 4: Sorting and grouping**:
   - **Tutorials:**
     - [Sorting and grouping](https://computer-science-tutorials.readthedocs.io/en/latest/Databases/tutorials/4.%20Sorting%20and%20grouping.html)
