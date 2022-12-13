@@ -37,8 +37,8 @@ This section contains some exercises:
     :glob:
     :titlesonly:
 
-    Introduction to SQL </Databases/class exercises/1. Introduction to SQL>
-    Indexing and Join clauses </Databases/class exercises/2. Indexing and Join clauses>
+    Introduction to SQL exercises </Databases/class exercises/1. Introduction to SQL>
+    Indexing and Join clauses exercises </Databases/class exercises/2. Indexing and Join clauses>
     Data type functions </Databases/class exercises/3. Functions>
     Sorting and Grouping </Databases/class exercises/4. Sorting and grouping>
 
