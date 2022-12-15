@@ -3,7 +3,8 @@ Software Engineering and Computer Science
 This section provides some tips to develop complext software systems. It helps you put in practice the concepts of previous units.
 
 Tutorials
-__________
+_________
+
 This section contains links to the tutorials in this unit:
 
 .. toctree::
@@ -13,7 +14,6 @@ This section contains links to the tutorials in this unit:
     :titlesonly:
 
     Development Tools  </Software Engineering/Development Tools>
-    
 
 
 
