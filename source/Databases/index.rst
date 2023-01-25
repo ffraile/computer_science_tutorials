@@ -67,4 +67,5 @@ This section contains some extra exercises:
     IIoT Database </Databases/Extra Exercises/IIoT data>
     IIoT Database Solution </Databases/Extra Exercises/IIoT data (solved)>
     Pawsitively Social </Databases/Extra Exercises/Pawsitively Social>
-    Pawsitively Social Solution </Databases/Extra Exercises/Pawsitively Social (solved)>
+    Pawsitively Social Solution </Databases/Extra Exercises/Pawsitively Social (Solved)>
+
