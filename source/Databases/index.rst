@@ -66,6 +66,7 @@ This section contains some extra exercises:
     Production Quality Database Solution </Databases/Extra Exercises/Production quality database (solved)>
     IIoT Database </Databases/Extra Exercises/IIoT data>
     IIoT Database Solution </Databases/Extra Exercises/IIoT data (solved)>
+    Investments Application </Databases/Extra Exercises/Investments application>
+    Investments Application Solution </Databases/Extra Exercises/Investments application (Solved)>
     Pawsitively Social </Databases/Extra Exercises/Pawsitively Social>
-    Pawsitively Social Solution </Databases/Extra Exercises/Pawsitively Social (Solved)>
 
