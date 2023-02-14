@@ -57,7 +57,7 @@ This section contains some extra exercises:
     Car retail database </Databases/Extra Exercises/Car retail>
     Car retail database solution </Databases/Extra Exercises/Car retail (solved)>
     Shopping list assistant </Databases/Extra Exercises/Shopping list assistant>
-    Shopping list assistant solution </Databases/Extra Exercises/Shopping list assistant (solved)>
+    Shopping list assistant Solution </Databases/Extra Exercises/Shopping list assistant (solved)>
     Project Timecards </Databases/Extra Exercises/project timecards>
     Project Timecards Solution </Databases/Extra Exercises/project timecards (solved)>
     Santa´s Little Helper </Databases/Extra Exercises/santas little helper>
