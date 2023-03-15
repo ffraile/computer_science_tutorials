@@ -57,3 +57,6 @@ nbsphinx_execute = 'never'
 
 ## Latex engine to support unicode characters
 latex_engine = "lualatex"
+latex_elements = {
+    "preamble": "\\usepackage{svg}\n",
+}
