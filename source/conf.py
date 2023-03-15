@@ -56,4 +56,4 @@ html_static_path = ['_static']
 nbsphinx_execute = 'never'
 
 ## Latex engine to support unicode characters
-latex_engine = "xelatex"
+latex_engine = "lualatex"
