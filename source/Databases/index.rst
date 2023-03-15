@@ -62,6 +62,8 @@ This section contains some extra exercises:
     Santa´s Little Helper Solution</Databases/Extra Exercises/santas little helper (solved)>
     Super database </Databases/Extra Exercises/super database>
     Super database Solution </Databases/Extra Exercises/super database (solved)>
+    Book database revisited </Databases/Extra Exercises/Book database revisited>
+    Book database revisited Solution </Databases/Extra Exercises/Book database revisited (solved)>
     Production Quality Database </Databases/Extra Exercises/Production quality database>
     Production Quality Database Solution </Databases/Extra Exercises/Production quality database (solved)>
     IIoT Database </Databases/Extra Exercises/IIoT data>
