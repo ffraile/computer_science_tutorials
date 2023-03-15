@@ -56,6 +56,8 @@ This section contains some extra exercises:
     Book database solution </Databases/Extra Exercises/Book database (solved)>
     Car retail database </Databases/Extra Exercises/Car retail>
     Car retail database solution </Databases/Extra Exercises/Car retail (solved)>
+    Shopping list assistant </Databases/Extra Exercises/Shopping list assistant>
+    Shopping list assistant Solution </Databases/Extra Exercises/Shopping list assistant (solved)>
     Project Timecards </Databases/Extra Exercises/project timecards>
     Project Timecards Solution </Databases/Extra Exercises/project timecards (solved)>
     Santa´s Little Helper </Databases/Extra Exercises/santas little helper>
@@ -71,4 +73,5 @@ This section contains some extra exercises:
     Investments Application </Databases/Extra Exercises/Investments application>
     Investments Application Solution </Databases/Extra Exercises/Investments application (Solved)>
     Pawsitively Social </Databases/Extra Exercises/Pawsitively Social>
+    Pawsitively Social Solution </Databases/Extra Exercises/Pawsitively Social (Solved)>
 
