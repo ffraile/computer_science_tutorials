@@ -24,7 +24,7 @@ With this said, we are ready to get started! But before you do, I think it is im
    :caption: Contents:
    :glob:
 
-   Introduction to Computer Programming <Introduction/index.rst>
+   Introduction to Computer Programming <Introduction/index.md>
    Modularization and object-oriented programming <Modularization/index.rst>
    Applied Mathematics <Applied Mathematics/index.rst>
    Data manipulation and analysis <Data Manipulation/index.rst>
