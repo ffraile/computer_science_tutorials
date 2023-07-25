@@ -2,6 +2,7 @@ ipykernel
 sphinx
 nbsphinx
 sphinx-gallery
+myst_parser
 pandas
 numpy
 matplotlib
