@@ -21,6 +21,7 @@ With this said, we are ready to get started! But before you do, I think it is im
    :glob:
 
    Introduction to Computer Programming <Introduction/index_md>
+
    Modularization and object-oriented programming <Modularization/index.rst>
    Applied Mathematics <Applied Mathematics/index.rst>
    Data manipulation and analysis <Data Manipulation/index.rst>
