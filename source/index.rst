@@ -5,7 +5,7 @@
 
 Computer Programming for Engineering and Management
 ===============================================
-Welcome to the *Computer Programming for Engineering and Management* interactive book! This online book has been specifically designed to guide the course on Computer Programming `@EDEM<https://edem.eu/en/>`_. The course is designed to build a specific set of computer programming skills that are becoming increasingly important in any engineering and/or management position.
+Welcome to the *Computer Programming for Engineering and Management* interactive book! This online book has been specifically designed to guide the course on Computer Programming `EDEM <https://edem.eu/en/>`_. The course is designed to build a specific set of computer programming skills that are becoming increasingly important in any engineering and/or management position.
 Below you can find a more detailed table of contents, but for now, let's keep in mind what are the main objectives of the book are:
 
 1. **Learn basic Python programming skills:** Get familiar with the Python environment (what do you need to develop code and what you need to execute your code) and learn the basics of Python programming language.
