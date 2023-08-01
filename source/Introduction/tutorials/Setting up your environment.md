@@ -4,6 +4,7 @@ This step-by-step guide will walk you through the process of setting up your Pyt
 We will cover the following topics:
 
 1️⃣ [Installing Python](#installing-python)
+
 2️⃣ [Installing a Python IDE](#installing-a-python-ide)
 
 ## 1️⃣ Installing Python
@@ -17,7 +18,7 @@ that is right for your operating system (Windows, MacOS, Linux).
 > show you a link to download the latest stable version. If you are unsure, just click on the button and it 
 > will automatically download the installer for your system.
 
-<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/download_python.png" style="max-width: 600px"/>
+<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/download_python.png" style="width: 100%; max-width: 600px"/>
 
 As a reference, at the time of writing this tutorial, the latest stable version is Python 3.11.4 and below you can 
 find links to the installers for the most popular operating systems:
@@ -31,7 +32,7 @@ Python to your system's environment variables, making it easier to run.
 
 In Windows, you just need to click on the "Add Python to PATH" checkbox, and click on Install Now as shown in the following screenshot:
 
-<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/install_python.png" style="max-width: 600px"/>
+<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/install_python.png" style="width: 100%; max-width: 600px"/>
 
 That's it! To check if Python is installed 
 correctly, open your system's command line (PowerShell in Windows and Terminal in MacOS), type:
@@ -43,7 +44,7 @@ python --version
 and hit enter. For instance, the following screenshot 
 shows how to do it in Windows PowerShell (wow, it has not been updated in a while!):
 
-<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/powershell.png" style="max-width: 600px"/>
+<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/powershell.PNG" style="width: 100%; max-width: 600px"/>
 
 If you followed the steps, you should see Python's version displayed. 🎉
 
@@ -57,7 +58,7 @@ For the remaining of the course, we will use [Visual Studio Code](https://code.v
 
 First, Visit the VS Code homepage at https://code.visualstudio.com/.
 
-<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/visual_studio.png" style="max-width: 600px"/>
+<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/visual_studio.PNG" style="width: 100%; max-width: 600px"/>
 
 Now, just click on the "Download" button for your operating system, then run the installer file and follow the prompts.
 
@@ -71,7 +72,7 @@ Once installed, open VS Code and navigate to the Extensions view by clicking on 
 (or use the shortcut Ctrl+Shift+X). The Extensions icon is the one that looks like a square with four squares in it and at the time of writing is the fifth icon from the top.
 Search for the Python extension in the marketplace and install it. It's published by Microsoft, and it's going to make your Python coding in VS Code a breeze!
 
-<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/vscode_extensions.png" style="max-width: 600px"/>
+<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/vscode_extensions.PNG" style="width: 100%; max-width: 600px"/>
 
 
 
@@ -101,7 +102,7 @@ need a GitHub Pro account or a free academic account to use it.
 
 Once you have your GitHub account, you can install the GitHub Copilot extension for VS Code by clicking on the Extensions icon in the Activity Bar, as you did for Python:
 
-<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/vscode_extensions_2.png" style="max-width: 600px"/>
+<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/vscode_extensions_2.PNG" style="width: 100%; max-width: 600px"/>
 
 Then, search for "GitHub Copilot" in the marketplace and install it. It's published by GitHub, you are going to freak out when you see it in action!
 
