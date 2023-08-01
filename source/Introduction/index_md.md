@@ -31,7 +31,7 @@ These are the main topics that we will cover in this chapter:
 - [Built-in functions](./exercises/0.%20Hello%20world.ipynb)
 - [Variables](./exercises/1.%20Variables%20and%20Basic%20Operations.ipynb)
 
-## 2️ Control Structures and Iterable Objects I
+## 2️⃣ Control Structures and Iterable Objects I
 - [Basic Control Structures](./tutorials/Basic%20Control%20Structures.ipynb): Learn the basics of logical expressions and control structures.
 - [Iterable Objects](./tutorials/Iterable%20Objects%20I.ipynb): Learn how to use iterable objects in Python.
 - [For Loops](./tutorials/For%20Loops.ipynb): Learn how to use `for` loops and the logical operator `in` in Python.
