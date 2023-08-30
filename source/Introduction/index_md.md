@@ -1,4 +1,4 @@
-# Introduction to Computer Programming
+# Introduction to Computer Programming: Part I
 Welcome to the first chapter of this book! In this chapter, we will cover the basics of computer programming with [Python](https://www.python.org/).
 
 🐍 Python is a very powerful programming language that is widely used in the fields of engineering and management. 
@@ -26,6 +26,7 @@ These are the main topics that we will cover in this chapter:
 - [Introduction to Computer Programming](./tutorials/Introduction%20to%20Computer%20Programming.ipynb): Explore key concepts of programming languages, and Python.
 - [Hello world](./tutorials/Hello%20World.ipynb): Write your first Python program using Visual Studio.
 - [Built-in Functions](./tutorials/Built-in%20Functions.ipynb): Learn how to use built-in functions in Python.
+- [Reasoning with ChatGPT](./tutorials/Reasoning%20with%20ChatGPT.ipynb): Learn how to use ChatGPT to learn and improve your programming.
 
 ### Class Exercises
 - [Built-in functions](./exercises/0.%20Hello%20world.ipynb)
@@ -46,11 +47,6 @@ These are the main topics that we will cover in this chapter:
 ### Class Exercises
 - [Basic Control Structures](./exercises/2.%20Basic%20Control%20Structures.ipynb)
 - [Iterables](./exercises/3.%20Iterables.ipynb)
-
-## 4️⃣ AI-Assisted Programming
-### Tutorials
-- [Reasoning with ChatGPT](./tutorials/Reasoning%20with%20ChatGPT.ipynb): Learn how to use ChatGPT to learn and improve your programming.
-- [Programming with Co-pilot](./tutorials/Programming%20with%20Co-pilot.ipynb): Learn how to use GitHub Co-pilot to write code.
 
 ## ➕ Extra Contents
 - [Setting up your environment](./tutorials/Setting%20up%20your%20environment.md)
