@@ -17,20 +17,24 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Programming for Engineering and Management'
-copyright = '2022, ??'
-author = '??'
+project = 'Computer Programming for Engineering and Management'
+copyright = '2023, Francisco Fraile'
+author = 'Francisco Fraile'
 
 # The full version, including alpha/beta/rc tags
-release = 'v0.1'
+release = 'III'
 
+# The logo
+html_logo = 'logo.png'
+
+# Disable the
 
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['nbsphinx', 'myst_parser', 'sphinx_design']
+extensions = ['nbsphinx', 'myst_parser', 'sphinx_design', 'sphinx_copybutton', 'sphinxext.opengraph']
 myst_enable_extensions = ["colon_fence"]
 
 
