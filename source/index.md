@@ -5,20 +5,32 @@ Welcome to the *Computer Programming for Engineering and Management* interactive
 Below you can find a more detailed table of contents, but for now, let's keep in mind what are the main objectives of the book are:
 
 1. **Learn basic Python programming skills:** Get familiar with the Python environment (what do you need to develop code and what you need to execute your code) and learn the basics of Python programming language.
-2. **Learn the basics of modularization and object-oriented programming:** Here you will learn how to build your own functions, modules, and classes. If right now these terms are alien to you, then you are in the right place. Basically these are *less basic* computer programming features that will help make your code more efficient and easy to interpret by other collaborators.
-3. **Learn outstanding Python libraries for engineering and management:** This chapter covers Python libraries to solve engineering and management problems using Python, including applied mathematics, data manipulation and analysis, and visualization.
-4. **Data Management and Structured Query Language (SQL):** Here you will what is a data base and how to use the SQL language to query data in a database. This is a very powerful language, and although there are many different flavours and variations, most database engines used in in one way or another.
+2. **Learn outstanding Python libraries for engineering and management:** This chapter covers Python libraries to solve engineering and management problems using Python, including applied mathematics, data manipulation and analysis, and visualization.
+3. **Data Management and Structured Query Language (SQL):** Here you will what is a database and how to use the SQL language to query data in a database. This is a very powerful language, and although there are many different flavours and variations, most database engines used in in one way or another.
 
 With this said, we are ready to get started! But before you do, I think it is important to emphasize that this is not a full-fledge computer programming book. It is an introductory book to the challenging computer programming world, meant for engineers and managers who want to use Python to solve problems, or that are involved in the development of software, for instance, providing specifications.
 
-```{toctree}
+## Table of Contents
+```{eval-rst}
+.. toctree::
    :maxdepth: 2
    :caption: Contents:
    :glob:
 
-   Introduction to Computer Programming <Introduction/index_md>
+   Computer Programming Basics <Introduction/index_p1>
+   Numerical Data Manipulation <Introduction/index_p2>
+   Data storage, retrieval and representation <Data Manipulation/index_p3>
 ```
 
+## Extra exercises
+```{eval-rst}
+.. toctree::
+   :maxdepth: 2
+   :caption: Extra exercises:
+   :glob:
+
+   Extra exercises <Extra Exercises/index_ex1>
+```
 
 ## Contributions
 

@@ -1,4 +1,4 @@
-# Introduction to Computer Programming: Part I
+# Introduction 
 Welcome to the first chapter of this book! In this chapter, we will cover the basics of computer programming with [Python](https://www.python.org/).
 
 🐍 Python is a very powerful programming language that is widely used in the fields of engineering and management. 
