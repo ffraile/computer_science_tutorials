@@ -3,6 +3,8 @@ sphinx
 nbsphinx
 sphinx-gallery
 myst_parser
+sphinx-design
+furo
 pandas
 numpy
 matplotlib
