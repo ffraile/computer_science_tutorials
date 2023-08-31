@@ -31,7 +31,7 @@ This section contains links to the tutorials in this unit:
 
 ## Solutions
 
-This section contains links to the class exercises:
+This section contains links to the class exercises.
 
 ```{eval-rst}
 .. toctree::

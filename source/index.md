@@ -19,17 +19,20 @@ With this said, we are ready to get started! But before you do, I think it is im
 
    Computer Programming Basics <Introduction/index_p1>
    Numerical Data Manipulation <Introduction/index_p2>
-   Data storage, retrieval and representation <Data Manipulation/index_p3>
+   Data storage, retrieval and representation <Databases/index_p3>
 ```
 
 ## Extra exercises
+This section contains exercises, solutions and analysis questions to test your skills.
+
 ```{eval-rst}
 .. toctree::
    :maxdepth: 2
    :caption: Extra exercises:
    :glob:
 
-   Extra exercises <Extra Exercises/index_ex1>
+   Python Programming exercises <Extra Exercises/index_ex1>
+   SQL Programming exercises <Databases/index_ex2>
 ```
 
 ## Contributions

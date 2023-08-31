@@ -16,7 +16,8 @@ are the main differences between natural languages and programming languages.
 
 📑 Learn what are control structures, and how to use them to control the flow of a program.
 
-#### 🚀 Are you excited about learning Python? Let's go! 
+🚀 **Are you excited about learning Python? Let's go!**
+
 <img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/welcome_message.png" style="width: 100%; max-width: 600px"/>
 
 These are the main topics that we will cover in this chapter:

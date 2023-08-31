@@ -11,7 +11,7 @@ In management, numerical data manipulation enables better decision-making throug
 From financial modeling to inventory management, the capacity to quickly and accurately process numerical data is invaluable. 
 Thus, mastering numerical data manipulation is a fundamental technical skill in both engineering and management contexts.
 
-#### Objectives
+## Objectives
 The main **objectives** of this chapter are: 
 
 📂	Learn the concepts behind tabular data and how to use advanced data input and outputs in your programs.
@@ -19,7 +19,7 @@ The main **objectives** of this chapter are:
 🧮 Get familiar with the Numpy library and how to use it to solve common management engineering and management problems.
 
 
-#### 🚀 Are you excited about leveling up your game with Python? Let's go! 
+**🚀 Are you excited about leveling up your game with Python? Let's go!**
 <img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/chapter_2_welcome.png" style="width: 100%; max-width: 600px"/>
 
 These are the main topics that we will cover in this chapter:
