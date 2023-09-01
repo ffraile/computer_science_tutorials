@@ -34,7 +34,7 @@ html_logo = '_static/logo.png'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['nbsphinx', 'myst_parser', 'sphinx_design', 'sphinx_copybutton', 'sphinxext.opengraph']
+extensions = ['myst_parser', 'myst-nb', 'sphinx_design', 'sphinx_copybutton', 'sphinxext.opengraph']
 myst_enable_extensions = ["colon_fence", "myst_admonition_enable"]
 
 # Add any paths that contain templates here, relative to this directory.
