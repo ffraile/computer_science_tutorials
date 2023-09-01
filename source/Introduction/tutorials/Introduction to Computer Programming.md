@@ -47,11 +47,10 @@ Ok, so now that we have a basic understanding of the fundamental concepts of pro
 :::{admonition} Basic structure of a program 
 :class: hint
 
-  :::python
   name = input("What is your name?")
   print("Hello!")
   print("Nice to meet you " + name)
-  :::
+
 :::
 
 The first statement asks the user to input a text, and assigns the value of the input to the variable `name`. The second statement prints the text `Hello!` in the screen. The third statement prints the text `Nice to meet you` followed by the value of the variable `name`. The output of this program would be something like this:
@@ -95,9 +94,8 @@ When you install Python in a system, you are basically installing the interprete
 :::{admonition} Executing Python in a shell 
 :class: hint
 
-    :::shell
     python my_script.py
-    :::
+
 :::
 
 
