@@ -25,7 +25,7 @@ author = 'Francisco Fraile'
 release = 'III'
 
 # The logo
-html_logo = 'logo.png'
+html_logo = '_static/logo.png'
 
 # Disable the
 
@@ -35,8 +35,7 @@ html_logo = 'logo.png'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['nbsphinx', 'myst_parser', 'sphinx_design', 'sphinx_copybutton', 'sphinxext.opengraph']
-myst_enable_extensions = ["colon_fence"]
-
+myst_enable_extensions = ["colon_fence", "myst_admonition_enable"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
