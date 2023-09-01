@@ -1,7 +1,8 @@
 ipykernel
 sphinx
+nbsphinx
+sphinx-gallery
 myst_parser
-myst-nb
 sphinx-design
 sphinx-copybutton
 sphinxext-opengraph
