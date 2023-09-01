@@ -22,11 +22,11 @@ Clearly, it is a really powerful tool and you can just copy the description of t
 
 For instance, you can start a prompt with the following text:
 
-:::{admonition} Sample prompt
-:class: hint
+<div class="admonition hint" name="html-admonition">
+<p class="title">Sample Prompt</p>
+I am a student of Engineering and Management and I am taking a course on Computer Programming with Python. The following exercises is part of the unit on Python built-in functions and I am trying to solve it: "Write a Python program to find the largest number among three input numbers provided by the user." Provide a solution in Python.
+</div>
 
-    I am a student of Engineering and Management and I am taking a course on Computer Programming with Python. The following exercises is part of the unit on Python built-in functions and I am trying to solve it: "Write a Python program to find the largest number among three input numbers provided by the user." Provide a solution in Python.
-:::
 
 ### Tip 3: Be specific 🔍
 Note that providing context does not mean that you have to write a whole lot of text. In fact, it is better to be as specific as possible. Following the example above, if you are trying to solve a problem, you can tell ChatGPT what you have tried so far and what you are stuck on. This will help it understand the problem better and give you a more accurate answer. For instance, you can complete the prompt with the following text:

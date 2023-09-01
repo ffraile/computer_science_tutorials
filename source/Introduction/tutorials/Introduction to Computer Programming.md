@@ -44,30 +44,25 @@ A **function** is a syntactic unit that represents a set of statements that are 
 ### Basic structure of a program
 Ok, so now that we have a basic understanding of the fundamental concepts of programming languages, let us discuss the basic structure of a program. A program is a set of statements that are executed sequentially. In other words, a program is a set of statements that are executed one after the other. For example, the following program is composed of three statements:
 
-::::{admonition} Example: Basic structure of a program
-:class: caution
+<div class="admonition note" name="html-admonition">
+<p class="title">Example: Basic structure of a program</p>
 
-    :::python
-    name = input("What is your name?")
-    print("Hello!")
-    print("Nice to meet you " + name)
-    :::
-
-::::
-
+```python
+name = input("What is your name?")
+print("Hello!")
+print("Nice to meet you " + name)
+```
+</div>
 
 The first statement asks the user to input a text, and assigns the value of the input to the variable `name`. The second statement prints the text `Hello!` in the screen. The third statement prints the text `Nice to meet you` followed by the value of the variable `name`. The output of this program would be something like this:
 
-::::{admonition} Example: Basic structure of a program
-:class: tip
 
-    :::shell
-    >>>What is your name? John
-    Hello!
-    Nice to meet you John
-    :::
+```shell
+>>>What is your name? John
+Hello!
+Nice to meet you John
+```
 
-::::
 
 
 
@@ -96,14 +91,13 @@ This section describes what happens briefly what happens when you want to execut
 As mentioned above, Python is an interpreted language, so it should be no surprise that the Python **interpreter** comes into play when you want to execute a Python script. 
 When you install Python in a system, you are basically installing the interpreter, and if you want to run a script, you basically need to call the interpreter passing the name of the script as an argument. For instance, if you use a terminal, it will look something like this:
 
-::::{admonition} Example: Basic structure of a program
-:class: tip
 
-    :::shell
+<div class="admonition note" name="html-admonition">
+<p class="title">Executing Python in shell script</p>
+    ```shell
     python my_script.py
-    :::
-
-::::
+    ```
+</div>
 
 
 
