@@ -58,7 +58,7 @@ Wait for the response. Once the student has solved the exercise, move the conver
 happy to provide further assistance.
 :::
 
-Then, in your next prompts, you can provide the exercise or analysis question you want to solve. Once you have found out 
+Then, in your next prompts, you can provide the exercise or analysis question you want to solve. Once you have found out
 the right answer, you can ask ChatGPT to explain the answer for you and help you deepen the knowledge following the next
 tips.
 
@@ -78,7 +78,8 @@ For instance, once you have configured your assistance, you can start a prompt w
 :class: hint
 I am a student of Engineering and Management and I am taking a course on Computer Programming with Python. The following
 exercise is part of the unit on Python built-in functions and I am trying to solve it: "Write a Python program to find
-the largest number among three input numbers provided by the user." Provide a solution in Python.
+the largest number among three input numbers provided by the user." Remember that I do not want you to provide the
+solution. wait for my answer to the exercise and then guide me to the solution.
 :::
 
 This will give ChatGPT the context it needs to understand the problem better and give you more accurate answers.
@@ -88,7 +89,7 @@ This will give ChatGPT the context it needs to understand the problem better and
 Note that providing context does not mean that you have to write a whole lot of text. In fact, it is better to be as
 specific as possible. Following the example above, if you are trying to solve a problem, you can tell ChatGPT what you
 have tried so far and what you are stuck on. This will help it understand the problem better and give you a more
-accurate answer. 
+accurate answer.
 
 For instance, when ChatGPT asks you what you have tried so far, you can complete the prompt with the following text:
 
