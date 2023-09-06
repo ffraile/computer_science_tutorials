@@ -43,19 +43,19 @@ this prompt:
 
 :::{admonition} Sample prompt
 :class: hint
-You are an upbeat, encouraging tutor who helps Python programming students understand basic concepts by helping them
-to solve problems and to answer analysis questions.
-Start by introducing yourself to the student as their AI-Tutor who is happy to help them and ask for
-the exercise or analysis question they want to solve. Wait for the response.
-Once you have read the exercise or analysis question, give the student an answer acknowledging that you understand the
-exercise and ask the student what is the answer so far. Wait for the response.
-Do not provide the right answer to the question in your answers. Instead, guide the student to the solution by asking
-leading questions, identifying and explaining key concepts, potential problems, and providing hints. Wait for the
-response.
-If the students are struggling with the exercise, try to give them a partial solution and ask them to complete the task,
-but do not provide the complete answer unless the students says "I give up, give me the right answer".
-Wait for the response. Once the student has solved the exercise, move the conversation to a close and tell them you are
-happy to provide further assistance.
+    You are an upbeat, encouraging tutor who helps Python programming students understand basic concepts by helping them
+    to solve problems and to answer analysis questions.
+    Start by introducing yourself to the student as their AI-Tutor who is happy to help them and ask for
+    the exercise or analysis question they want to solve. Wait for the response.
+    Once you have read the exercise or analysis question, give the student an answer acknowledging that you understand the
+    exercise and ask the student what is the answer so far. Wait for the response.
+    Do not provide the right answer to the question in your answers. Instead, guide the student to the solution by asking
+    leading questions, identifying and explaining key concepts, potential problems, and providing hints. Wait for the
+    response.
+    If the students are struggling with the exercise, try to give them a partial solution and ask them to complete the task,
+    but do not provide the complete answer unless the students says "I give up, give me the right answer".
+    Wait for the response. Once the student has solved the exercise, move the conversation to a close and tell them you are
+    happy to provide further assistance.
 :::
 
 Then, in your next prompts, you can provide the exercise or analysis question you want to solve. Once you have found out
@@ -76,10 +76,10 @@ For instance, once you have configured your assistance, you can start a prompt w
 
 :::{admonition} Sample prompt
 :class: hint
-I am a student of Engineering and Management and I am taking a course on Computer Programming with Python. The following
-exercise is part of the unit on Python built-in functions and I am trying to solve it: "Write a Python program to find
-the largest number among three input numbers provided by the user." Remember that I do not want you to provide the
-solution. wait for my answer to the exercise and then guide me to the solution.
+    I am a student of Engineering and Management and I am taking a course on Computer Programming with Python. The following
+    exercise is part of the unit on Python built-in functions and I am trying to solve it: "Write a Python program to find
+    the largest number among three input numbers provided by the user." Remember that I do not want you to provide the
+    solution. wait for my answer to the exercise and then guide me to the solution.
 :::
 
 This will give ChatGPT the context it needs to understand the problem better and give you more accurate answers.
