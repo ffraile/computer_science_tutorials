@@ -25,7 +25,7 @@ These are the main topics that we will cover in this chapter:
 ## 1️⃣ Introduction to Python & Python Environments
 ### Tutorials
 - [Introduction to Computer Programming](./tutorials/Introduction%20to%20Computer%20Programming.md): Explore key concepts of programming languages, and Python.
-- [Hello world](./tutorials/Hello%20World.ipynb): Write your first Python program using Visual Studio.
+- [Hello world](./tutorials/Jupyter%20Notebook%20Hello%20World.ipynb): Write your first Python program using the interactive environment ([Google Colab](https://colab.research.google.com/)).
 - [Built-in Functions](./tutorials/Built-in%20Functions.ipynb): Learn how to use built-in functions in Python.
 - [Reasoning with ChatGPT](./tutorials/Reasoning%20with%20ChatGPT.md): Learn how to use ChatGPT to learn and improve your programming.
 
@@ -52,7 +52,7 @@ These are the main topics that we will cover in this chapter:
 ## ➕ Extra Contents
 - [Setting up your environment](./tutorials/Setting%20up%20your%20environment.md)
 - [Development Tools](../Software%20Engineering/tutorials/Development%20Tools.ipynb)
-- [Google Colabs Hello World](./tutorials/Jupyter%20Notebook%20Hello%20World.ipynb)
+- [Visual Studio Hello World](./tutorials/Hello%20World.ipynb)
 
 
 
