@@ -47,9 +47,9 @@ Ok, so now that we have a basic understanding of the fundamental concepts of pro
 :::{admonition} Basic structure of a program 
 :class: hint
 
-  name = input("What is your name?")
-  print("Hello!")
-  print("Nice to meet you " + name)
+    name = input("What is your name?")
+    print("Hello!")
+    print("Nice to meet you " + name)
 
 :::
 
