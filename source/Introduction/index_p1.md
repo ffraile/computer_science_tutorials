@@ -43,7 +43,7 @@ These are the main topics that we will cover in this chapter:
 ### Tutorials
 - [Basic Control Structures](./tutorials/Basic%20Control%20Structures.ipynb): Learn the basics of logical expressions and control structures.
 - [Iterable Objects](./tutorials/Iterable%20Objects%20I.ipynb): Learn how to use iterable objects in Python.
-- [For Loops](./tutorials/For%20Loops.ipynb): Learn how to use `for` loops and the logical operator `in` in Python.
+- [For Loops](./tutorials/For%20Control%20Loop.ipynb): Learn how to use `for` loops and the logical operator `in` in Python.
 
 ### Class Exercises
 - [Basic Control Structures](./exercises/2.%20Basic%20Control%20Structures.ipynb)
