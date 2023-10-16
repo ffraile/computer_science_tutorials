@@ -13,8 +13,8 @@ This section contains links to the tutorials in this unit:
     :glob:
     :titlesonly:
 
-    Fibonacci Sequence Generator </Extra Exercises/Ex1. Fibonacci>
-    Quadratic formula </Extra Exercises/Ex2. Quadratic>
+    Fibonacci Sequence Generator </Extra Exercises/Ex1. Fibonacci> :bdg-link-primary-line:`control structures` :bdg-link-primary-line:`iterables`
+    Quadratic formula </Extra Exercises/Ex2. Quadratic> :bdg-link-primary-line:`basic operations` :bdg-link-primary-line:`control structures`
     Student Marks </Extra Exercises/Ex3. Student Marks>
     Shopping List </Extra Exercises/Ex4. Shopping List>
     Harshad Numbers </Extra Exercises/Harshad Numbers>
