@@ -14,7 +14,7 @@ This section contains links to the tutorials in this unit:
     :titlesonly:
 
     Fibonacci Sequence Generator </Extra Exercises/Ex1. Fibonacci>
-    Quadratic formula </Extra Exercises/Ex2. Quadratic>`
+    Quadratic formula </Extra Exercises/Ex2. Quadratic>
     Student Marks </Extra Exercises/Ex3. Student Marks>
     Shopping List </Extra Exercises/Ex4. Shopping List>
     Harshad Numbers </Extra Exercises/Harshad Numbers>
@@ -31,7 +31,7 @@ This section contains links to the tutorials in this unit:
 
 ## Solutions
 
-This section contains links to the solutions to the proposed extra exercises.
+This section contains links to the class exercises.
 
 ```{eval-rst}
 .. toctree::
