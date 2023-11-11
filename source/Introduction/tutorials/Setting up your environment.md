@@ -3,9 +3,11 @@ Are you ready to dive into the world of Python? Let's get started!
 This step-by-step guide will walk you through the process of setting up your Python environment.
 We will cover the following topics:
 
-1️⃣ [Installing Python](#installing-python)
+1️⃣ [Installing Python](#1-installing-python)
 
-2️⃣ [Installing a Python IDE](#installing-a-python-ide)
+2️⃣ [Installing a Python IDE](#2-installing-a-python-ide)
+
+3️⃣ [Installing Packages with pip](#3-installing-packages-with-pip)
 
 ## 1️⃣ Installing Python
 First off, we're going to need Python, the language of choice for this and many programmers worldwide, as you may have 
@@ -58,8 +60,9 @@ For the remaining of the course, we will use [Visual Studio Code](https://code.v
 
 First, Visit the VS Code homepage at https://code.visualstudio.com/.
 
-<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/visual_studio.PNG" style="width: 100%; max-width: 600px"/>
+![vscode homepage](img/visual_studio.PNG)
 
+Then, click on the "Download for Windows" or "Download for Mac" button, depending on your operating system.
 Now, just click on the "Download" button for your operating system, then run the installer file and follow the prompts.
 
 At the time of writing, the prompts are: 
@@ -68,14 +71,12 @@ At the time of writing, the prompts are:
 - Choose the start menu folder (or leave it as the default Visual Studio Code)
 - Choose the additional tasks (or leave them as default, which is recommended)
 
+##  Installing the Python extension
 Once installed, open VS Code and navigate to the Extensions view by clicking on the Extensions icon in the Activity Bar, which is the vertical menu bar on the left side of the window. 
 (or use the shortcut Ctrl+Shift+X). The Extensions icon is the one that looks like a square with four squares in it and at the time of writing is the fifth icon from the top.
 Search for the Python extension in the marketplace and install it. It's published by Microsoft, and it's going to make your Python coding in VS Code a breeze!
 
-<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/vscode_extensions.PNG" style="width: 100%; max-width: 600px"/>
-
-
-
+![vscode extensions](img/vscode_extensions.PNG)
 
 You're all set! You've got Python and a powerful text editor. You're officially ready to start your Python journey! 
 But don't worry; we're just getting started. In our upcoming lectures, 
@@ -83,7 +84,64 @@ we'll explore the magic of Python together, and trust me, you're going to love i
 
 So, welcome aboard, future Pythonista! You've just taken your first step into a bigger world.
 
-### Extra: Signing up for GitHub and Copilot
+## 3️⃣ Installing Packages with pip
+Python comes with a built-in package installation manager called `pip`, which is short for "Pip Installs Packages".
+It is used to install and manage software packages written in Python. Using pip is very easy, you just need to open a terminal and type:
+
+```shell
+pip install <package_name>
+```
+
+For instance, if you want to install the `numpy` package, you just need to type:
+
+```shell
+pip install numpy
+```
+
+and hit enter. Pip will automatically download and install the package for you.
+
+There are different options to open a terminal, depending on your operating system:
+- Windows: Open the Search bad and type "cmd" or "powershell" and hit enter. This will open a terminal window. 
+- MacOS: Open the Launchpad and type "terminal" and hit enter. It´s that easy!
+
+You can also open the terminal from VS Code by clicking on the Terminal icon in the Activity Bar (the one that looks like a greater-than sign) or by using the shortcut Ctrl+Shift+`.
+
+### Running Python code from the terminal
+You can also run Python code from the terminal. To do so, you just need to type:
+
+```shell
+python <path_to_your_python_file>
+```
+
+For instance, if you have a file called `hello_world.py` in your Desktop folder, you can run it by typing:
+
+```shell
+python C:\Users\<your_username>\Desktop\hello_world.py
+```
+
+> ☝ **Important**: If your username has spaces, you need to enclose the path in double quotes, like this:
+> ```shell
+> python "C:\Users\<your_username>\Desktop\hello_world.py"
+> ```
+
+Normally, you would want to run your Python code from the same folder where your Python file is located. To do so, the ```CD``` command is your friend. 
+```CD``` stands for "Change Directory", and it allows you to navigate between folders in the terminal. For instance, if you want to navigate to your Desktop folder, you just need to type:
+
+```shell
+cd .\Desktop\
+```
+
+Note that the backslash is used to separate folders in Windows, while the forward slash is used in MacOS and Linux.
+
+A very handy trick to save time is to use the ```TAB``` key to autocomplete the folder names. For instance, if you type:
+
+```shell
+cd D
+```
+
+and then hit the ```TAB``` key, the terminal will autocomplete the folder name if there is only one folder that starts with the letter "D". If there are more than one, you can type more letters and hit ```TAB``` again to autocomplete the folder name. You can also use the ```TAB``` key to autocomplete file names, or sub-directories!
+
+## Extra: Signing up for GitHub and Copilot
 It is strongly recommended to sign up for a GitHub account, as it will be useful for many things, including:
 - Storing your code in the cloud
 - Sharing your code with others
@@ -102,8 +160,7 @@ need a GitHub Pro account or a free academic account to use it.
 
 Once you have your GitHub account, you can install the GitHub Copilot extension for VS Code by clicking on the Extensions icon in the Activity Bar, as you did for Python:
 
-<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/vscode_extensions_2.PNG" style="width: 100%; max-width: 600px"/>
-
+![vscode extensions](img/vscode_extensions_2.PNG)
 Then, search for "GitHub Copilot" in the marketplace and install it. It's published by GitHub, you are going to freak out when you see it in action!
 
 
