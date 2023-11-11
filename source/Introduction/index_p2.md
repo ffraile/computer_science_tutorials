@@ -31,13 +31,18 @@ These are the main topics that we will cover in this chapter:
 - [Iterables II](./tutorials/Iterable%20Objects%20II.ipynb): Learn about Dictionaries and cool tricks to manipulate complex iterable objects.
 
 
-## 2️⃣ Numerical Data Manipulation with Numpy
+## 2️⃣ Data acquisition: Interacting with serial devices
+### Tutorials
+- [](../Data%20Manipulation/tutorials/Serial%20Communication.ipynb): Get familiar with key concepts surrounding data manipulation.
+
+## 3️⃣ Numerical Data Manipulation
 ### Tutorials
 - [Introduction to Numpy](../Applied%20Mathematics/tutorials/Numpy%20tutorial.ipynb): Get familiar with the Numpy library and Numpy Arrays.
 - [Linear Algebra with Numpy](../Applied%20Mathematics/tutorials/Linear%20Algebra%20with%20Numpy.ipynb): Learn how to solve linear algebra problems with Numpy.
 
 ### Class Exercises
 - [Numpy Arrays](../Applied%20Mathematics/exercises/Numpy%20arrays.ipynb)
+
 
 ## ➕ Extra Contents
 - [Modularization](../Modularization/tutorials/Modules.ipynb)
