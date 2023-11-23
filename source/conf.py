@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Computer Programming for Engineering and Management'
+project = 'Computer Programming for Engineers'
 copyright = '2023, Francisco Fraile'
 author = 'Francisco Fraile'
 
 # The full version, including alpha/beta/rc tags
-release = 'III'
+release = 'I'
 
 # The logo
 html_logo = '_static/logo.png'
