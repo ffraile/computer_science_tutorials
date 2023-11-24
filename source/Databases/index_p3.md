@@ -22,51 +22,46 @@ Moreover, proper data representation ensures that complex business metrics are e
 
 ## 1️⃣ Introduction to databases
 ### Tutorials
-[Introduction to databases](tutorials/Introduction%20to%20Databases.ipynb)
-[Test environment](tutorials/0.%20Practice%20environment.ipynb)
-[Introduction to SQL](tutorials/1.%20Introduction%20to%20SQL.ipynb)
+- [Introduction to databases](tutorials/Introduction%20to%20Databases.ipynb)
+- [Introduction to SQL](tutorials/1.%20Introduction%20to%20SQL.ipynb)
+- [Test environment](tutorials/0.%20Practice%20environment.ipynb)
 
 ### Class Exercises
-[Introduction to SQL exercises](class%20exercises/1.%20Introduction%20to%20SQL.ipynb)
+- [Introduction to SQL exercises](class%20exercises/1.%20Introduction%20to%20SQL.ipynb)
 
-## 2️⃣ Data type functions
+### Class Exercises
+- [Indexing and Join clauses](class%20exercises/2.%20Indexing%20and%20Join%20clauses.ipynb)
+
+## 2️⃣ Indexing and Join clauses
 ### Tutorials
-[Data type functions](tutorials/3.%20Data%20Type%20Functions.ipynb)
+- [Indexing and Join clauses](tutorials/2.%20Indexing%20and%20Join%20clauses.ipynb)
 
-### Class Exercises
-[Data type functions](class%20exercises/3.%20Functions.ipynb)
-
-## 3️⃣ Indexing and Join clauses
+## 3️⃣ Data type functions
 ### Tutorials
-[Indexing and Join clauses](tutorials/2.%20Indexing%20and%20Join%20clauses.ipynb)
+- [Data type functions](tutorials/3.%20Data%20Type%20Functions.ipynb)
 
 ### Class Exercises
-[Indexing and Join clauses](class%20exercises/2.%20Indexing%20and%20Join%20clauses.ipynb)
+- [Data type functions](class%20exercises/3.%20Functions.ipynb)
 
 ## 4️⃣ Sorting and grouping
 ### Tutorials
-[Sorting and grouping](tutorials/4.%20Sorting%20and%20grouping.ipynb)
+- [Sorting and grouping](tutorials/4.%20Sorting%20and%20grouping.ipynb)
 
-### Class Exercises
-[Sorting and grouping](class%20exercises/4.%20Sorting%20and%20grouping.ipynb)
-
-## 5️⃣ Introduction to Python Pandas
+## 5️⃣ Data storage and retrieval with Python
 ### Tutorials
-[Introduction to Python Pandas](../Data%20Manipulation/tutorials/Pandas%20tutorial.ipynb)
+- [Data storage and retrieval with Python](tutorials/5.%20Data%20storage%20and%20retrieval%20with%20Python.ipynb)
+
 
 ### Class Exercises
-[Exercises with Pandas Dataframes](../Data%20Manipulation/exercises/Pandas%20Dataframes.ipynb)
+- [Sorting and grouping](class%20exercises/4.%20Sorting%20and%20grouping.ipynb)
 
-## 6️⃣ Introduction to Python Matplotlib
+## ➕ Extra Contents 
 ### Tutorials
-[Introduction to Python Matplotlib](../Data%20Manipulation/tutorials/Matplotlib%20tutorial.ipynb)
+- [Introduction to Python Pandas](../Data%20Manipulation/tutorials/Pandas%20tutorial.ipynb)
+- [Introduction to Python Matplotlib](../Data%20Manipulation/tutorials/Matplotlib%20tutorial.ipynb)
+- [Introduction to Python Streamlit](../Data%20Manipulation/tutorials/Streamlit%20tutorial.ipynb)
+- [Working with Markdown](../Introduction/tutorials/Working%20with%20Markdown%20cells.ipynb)
 
-### Class Exercises
-[Exercises with Matplotlib](../Data%20Manipulation/exercises/Matplotlib.ipynb)
-
-## 7️⃣ Introduction to Python Streamlit and Markdown
-### Tutorials
-[Introduction to Python Streamlit](../Data%20Manipulation/tutorials/Streamlit%20tutorial.ipynb)
-[Working with Markdown](../Introduction/tutorials/Working%20with%20Markdown%20cells.ipynb)
-
-### Class Exercises
+### Exercises
+- [Exercises with Pandas Dataframes](../Data%20Manipulation/exercises/Pandas%20Dataframes.ipynb)
+- [Exercises with Matplotlib](../Data%20Manipulation/exercises/Matplotlib.ipynb)
