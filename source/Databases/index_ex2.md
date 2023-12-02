@@ -21,6 +21,7 @@ This section contains exercises to test your SQL programming skills:
     IIoT Database </Databases/Extra Exercises/IIoT data>
     Investments Application </Databases/Extra Exercises/Investments application>
     Pawsitively Social </Databases/Extra Exercises/Pawsitively Social>
+    Vintage Vidego Games </Databases/Extra Exercises/Vintage Videogames>
 ```
 
 ## Solutions
@@ -44,4 +45,6 @@ This section contains solutions to the exercises:
     IIoT Database Solution </Databases/Extra Exercises/IIoT data (solved)>
     Investments Application Solution </Databases/Extra Exercises/Investments application (Solved)>
     Pawsitively Social Solution </Databases/Extra Exercises/Pawsitively Social (Solved)>
+    Vintage Vidego Games </Databases/Extra Exercises/Vintage Videogames (solved)>
+
 ```
