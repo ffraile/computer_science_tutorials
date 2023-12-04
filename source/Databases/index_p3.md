@@ -29,12 +29,14 @@ Moreover, proper data representation ensures that complex business metrics are e
 ### Class Exercises
 - [Introduction to SQL exercises](class%20exercises/1.%20Introduction%20to%20SQL.ipynb)
 
-### Class Exercises
-- [Indexing and Join clauses](class%20exercises/2.%20Indexing%20and%20Join%20clauses.ipynb)
+
 
 ## 2️⃣ Indexing and Join clauses
 ### Tutorials
 - [Indexing and Join clauses](tutorials/2.%20Indexing%20and%20Join%20clauses.ipynb)
+
+### Class Exercises
+- [Indexing and Join clauses](class%20exercises/2.%20Indexing%20and%20Join%20Operations.ipynb)
 
 ## 3️⃣ Data type functions
 ### Tutorials
