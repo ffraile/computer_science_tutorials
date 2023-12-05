@@ -49,13 +49,14 @@ Moreover, proper data representation ensures that complex business metrics are e
 ### Tutorials
 - [Sorting and grouping](tutorials/4.%20Sorting%20and%20grouping.ipynb)
 
-## 5️⃣ Data storage and retrieval with Python
-### Tutorials
-- [Data storage and retrieval with Python](tutorials/5.%20Data%20storage%20and%20retrieval%20with%20Python.ipynb)
-
 
 ### Class Exercises
 - [Sorting and grouping](class%20exercises/4.%20Sorting%20and%20grouping.ipynb)
+
+
+## 5️⃣ Data storage and retrieval with Python
+### Tutorials
+- [Data storage and retrieval with Python](tutorials/5.%20Data%20storage%20and%20retrieval%20with%20Python.ipynb)
 
 ## ➕ Extra Contents 
 ### Tutorials
