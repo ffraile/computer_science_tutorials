@@ -42,56 +42,51 @@ if port is not None or simulation_mode:
             signal = command.encode('utf-8') # Convert the command to a binary string
             arduino.write(signal) # Send the command to the device
             arduino.flush() # Wait until the command is sent
-            raw_data = arduino.readline() # Read the data from the device
+            raw_data = 'b' # Init as empty binary string
+            while raw_data == 'b':
+                raw_data = arduino.readline() # Read the data from the device
             print(raw_data) # Print the response from the device
         elif command == '5':
             print("Entering continuous mode. Press Ctrl+C to exit")
             while True:
                 time.sleep(1) # Wait for 1 second
                 # Let´s put the data in a dictionary.
-                data = {"timestamp": time.strftime("%Y-%m-%d %H:%M:%S")}
+                data_timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
 
                 if simulation_mode: # If we are in testing mode, we will simulate the data
-                    data["humidity"] = random.randint(0, 100)
-                    data["temperature"] = random.randint(0, 100)
-                    data["soil_moisture"] = random.randint(0, 1000)
+                    data_humidity = random.randint(0, 100)
+                    data_temperature = random.randint(0, 100)
+                    data_soil_moisture = random.randint(0, 1000)
                 else: # If we are not in testing mode, we will read the data from the device
                     # First send a signal to read humidity and temperature
                     signal = b'3'
                     arduino.write(signal) # Send the command to the device
                     arduino.flush() # Wait until the command is sent
-                    raw_data = arduino.readline() # Read the data from the device
+                    raw_data = 'b'  # Init as empty binary string
+                    while raw_data == 'b':
+                        raw_data = arduino.readline()  # Read the data from the device
 
                     #Incoming data is in the format b'Humidity: 50.00 % Temperature: 23.00 \n'
                     # We need to split the string into a list of strings
                     raw_data = raw_data.decode('utf-8').strip().split(' ')
                     # Now we need to convert the strings to floats and add them to the dictionary
-                    data["humidity"] = float(raw_data[1])
-                    data["temperature"] = float(raw_data[4])
+                    data_humidity = float(raw_data[1])
+                    data_temperature = float(raw_data[4])
                     time.sleep(1) # Wait for 1 second
                     # Now send a signal to read soil moisture
                     signal = b'4'
                     arduino.write(signal) # Send the command to the device
                     arduino.flush() # Wait until the command is sent
-                    raw_data = arduino.readline() # Read the data from the device
+                    raw_data = 'b'  # Init as empty binary string
+                    while raw_data == 'b':
+                        raw_data = arduino.readline()  # Read the data from the device
                     # Incoming data is in the format b'Soil Moisture: 350 \n'
                     # Decode the data and split it into a list of strings
                     raw_data = raw_data.decode('utf-8').strip().split(' ')
                     # Get the soil moisture value and store it in the dictionary
-                    data["soil_moisture"] = float(raw_data[2])
+                    data_soil_moisture = float(raw_data[2])
 
+                data = f'New measurement: timestamp= {data_timestamp}, humidity: {data_humidity}%, temperature: {data_temperature}, moisture: {data_soil_moisture}'
                 print(data)
-                # Now we can save incoming data into the file. We need to open the file in append mode, and check whether the file contains previous data
-                with open("data.csv", "a+") as f:
-                    # First we need to check whether the file contains previous data
-                    f.seek(0) # Move the cursor to the beginning of the file
-                    previous_data = f.read() # Read the file
-                    if previous_data == "": # If the file is empty, we need to add the header
-                        f.write("timestamp,humidity,temperature,soil_moisture\n")
-                        # Now we can write the data to the file
-                        f.write(f"{data['timestamp']},{data['humidity']},{data['temperature']},{data['soil_moisture']}\n")
-                    else: # If the file is not empty, we just need to move the cursor to the end of the file and add the data
-                        f.seek(0, 2) # Move the cursor to the end of the file
-                        f.write(f"{data['timestamp']},{data['humidity']},{data['temperature']},{data['soil_moisture']}\n")
         else:
             print("Invalid command")

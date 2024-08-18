@@ -1,12 +1,14 @@
 import serial
 import time
 import random
+
 # Initialize the port variable.
 # If you already know the serial port where the Arduino board is connected,
 # you need to assign it to this variable, replacing None with the actual name of the port.
 # For instance, if your Arduino board is connected to port COM7, you can use the line below
-#port = 'COM7'
-
+# port = 'COM7'
+# TODO: Find out the name of the port you use to connect to Arduino and update the variable
+# definition
 port = None
 
 # Initialize serial communications. Set the baud rate to 96000 bps.
@@ -17,6 +19,7 @@ if port is not None:
 # Set the variable simulation_mode to True to simulate the connection to the device to test your Python part
 # With this mode, you can run some basic tests to make sure your Python program works before you actually connect
 # to Arduino.
+# TODO: Change to False when you are ready to test it with your own device
 simulation_mode = True
 
 # Let's start only if we have initialize the port or if we are working on simulation mode.
@@ -34,7 +37,7 @@ if port is not None or simulation_mode:
     # In the template, we support two direct commands to Arduino, and one complex workflow
     # where we exchange more information with the device.
     # Make sure you extend or adapt the command set to your application use case!
-
+    # TODO: Define your command list and update the documentation
     print("You can use the following commands:")
     print("1. Send a command directly to Arduino")
     print("2. Send another command to Arduino")
@@ -48,6 +51,7 @@ if port is not None or simulation_mode:
         # First we check if we need to send the command directly to Arduino.
         # For this commands, we just encode the commands as binary strings and send them to the
         # Arduino directly
+        # TODO: Update the command list to include all your direct command codes
         if command in ['1', '2']:
             if not simulation_mode:
                 signal = command.encode('utf-8')  # Convert the command to a binary string
@@ -62,7 +66,7 @@ if port is not None or simulation_mode:
 
             # Print the raw_data passed in the response from the device
             print(raw_data)
-
+        # TODO: Update if you want to add more than a complex workflow command
         elif command == '3':
             # You might not want to send the devices directly. For instance, you may want to
             # provide info from the device to the user in continuous mode.
@@ -70,12 +74,14 @@ if port is not None or simulation_mode:
             print("Entering interacive workflow. Press Ctrl+C to exit")
 
             while True:
-                time.sleep(1) # Wait for 1 second, it is wise to give Arduino some time to make sure
+                time.sleep(1)  # Wait for 1 second, it is wise to give Arduino some time to make sure
                 # it completes the main loop
 
-                if not simulation_mode: # If we are in simulation mode, we will send the commands 1 and 2 and combine
+                if not simulation_mode:
+                    # If we are in simulation mode, we will send the commands 1 and 2 and combine
                     # results
                     # First we send the first signal
+                    # TODO: Update the following block code with the logic of your own application
                     signal = b'1'
                     arduino.write(signal)  # Send the command to the device
                     arduino.flush()  # Wait until the command is sent
@@ -94,7 +100,7 @@ if port is not None or simulation_mode:
                         second_raw_data = arduino.readline()  # Read message
 
 
-                else: # If we are in simulation mode, we just generate random data
+                else:  # If we are in simulation mode, we just generate random data
                     first_raw_data = random.randint(0, 100)
                     second_raw_data = random.randint(0, 100)
 
