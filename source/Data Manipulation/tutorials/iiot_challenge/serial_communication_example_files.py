@@ -1,34 +1,45 @@
 import serial
 import time
 import random
-port = None # Initialize the port variable. If you already know the serial port where the Arduino board is connected,
-# you can assign it to this variable, replacing with the line below
+# Initialize the port variable.
+# If you already know the serial port where the Arduino board is connected,
+# you need to assign it to this variable, replacing None with the actual name of the port.
+# For instance, if your Arduino board is connected to port COM7, you can use the line below
 #port = 'COM7'
-if port is not None:
-    ports = serial.tools.list_ports.comports()
-    for p in ports:
-        #print(f"{p.device} {p.manufacturer}") # Uncomment this line to print the list of serial ports
-        if p.manufacturer is not None and 'Arduino' in p.manufacturer:
-            port = p.device
-            break
 
+port = None
+
+# Initialize serial communications. Set the baud rate to 96000 bps.
 if port is not None:
     arduino = serial.Serial(port, 9600, timeout=1)
 
-simulation_mode = True # Set this variable to True to simulate the data
+# Simulation mode
+# Set the variable simulation_mode to True to simulate the connection to the device to test your Python part
+# With this mode, you can run some basic tests to make sure your Python program works before you actually connect
+# to Arduino.
+simulation_mode = True
+
+# Let's start only if we have initialize the port or if we are working on simulation mode.
 if port is not None or simulation_mode:
+    # Print welcome message.
+    # Command interfaces can be really nice! let's welcome our user using some ASCII art
     print(" _      __    __")
     print("| | /| / /__ / /______  __ _  ___")
     print("| |/ |/ / -_) / __/ _ \\/  ' \\/ -_)")
     print("|__/|__/\\__/_/\\__/\\___/_/_/_/\\__/")
-
     print("Welcome to the Arduino control panel")
+
+    # It is important that you provide the user with some basic instructions explaining
+    # what each command actually does
+    # In the template, we are going to support 3 commands, encoded as '1', '2', and '3',
+    # but you can use as many commands as you want in your code.
+
     print("You can use the following commands:")
-    print("1. Read humidity")
-    print("2. Read temperature")
-    print("3. Read humidity and temperature")
-    print("4. Read soil moisture")
-    print("5. read all in continuous mode")
+    print("1. Do something with Arduino")
+    print("2. Do something else")
+    print("3. one more example")
+
+    # The combination of keys "Ctrl + C" can be used to terminate the program.
     print("Press Ctrl+C to exit")
     while True:
 
