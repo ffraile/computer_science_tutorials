@@ -24,16 +24,15 @@ The main **objectives** of this chapter are:
 
 These are the main topics that we will cover in this chapter:
 
-## 1️⃣ Introduction to structured input and output data formats.
-### Tutorials
-- [Introduction to Data Manipulation and Analysis](../Data%20Manipulation/tutorials/Introduction.ipynb): Get familiar with key concepts surrounding data manipulation.
-- [File Formats](../Data%20Manipulation/tutorials/Files.ipynb): Get familiar with popular data file formats like CSV and JSON.
-- [Iterables II](./tutorials/Iterable%20Objects%20II.ipynb): Learn about Dictionaries and cool tricks to manipulate complex iterable objects.
-
-
-## 2️⃣ Data acquisition: Interacting with serial devices
+## 1️⃣ Data acquisition: Interacting with serial devices
 ### Tutorials
 - [](../Data%20Manipulation/tutorials/Serial%20Communication.ipynb): Get familiar with key concepts surrounding data manipulation.
+
+## 2️⃣ Introduction to structured input and output data formats.
+### Tutorials
+- [Introduction to Data Manipulation and Analysis](../Data%20Manipulation/tutorials/Introduction.ipynb): Get familiar with key concepts surrounding data manipulation.
+- [Iterables II](./tutorials/Iterable%20Objects%20II.ipynb): Learn about Dictionaries and cool tricks to manipulate complex iterable objects.
+- [File Formats](../Data%20Manipulation/tutorials/Files.ipynb): Get familiar with popular data file formats like CSV and JSON.
 
 ## 3️⃣ Numerical Data Manipulation
 ### Tutorials
@@ -41,6 +40,8 @@ These are the main topics that we will cover in this chapter:
 - [Linear Algebra with Numpy](../Applied%20Mathematics/tutorials/Linear%20Algebra%20with%20Numpy.ipynb): Learn how to solve linear algebra problems with Numpy.
 
 ### Class Exercises
+- [Serial Communication](../Data%20Manipulation/exercises/Serial%20Communication%20exercises.ipynb)
+- [File Formats and iterable objects](../Data%20Manipulation/exercises/Files%20exercises.ipynb)
 - [Numpy Arrays](../Applied%20Mathematics/exercises/Numpy%20arrays.ipynb)
 
 
