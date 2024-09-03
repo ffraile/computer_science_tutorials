@@ -254,7 +254,7 @@ Instead, you could try to divide the complex problem into smaller parts, using a
 following the example, we could start asking the AI what is the hardware typically used in the smart home domain:
 
 :::{admonition} Sample prompt
-:class: caution
+:class: hint
 
     I am a student of Engineering and Management and I am taking a course on Computer Science. As par of the course, I 
     need to ideate an original IoT system project and implement a proof of concept using Arduino and Python. I decided 
