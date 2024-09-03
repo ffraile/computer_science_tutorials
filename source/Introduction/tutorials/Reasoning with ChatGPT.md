@@ -14,7 +14,7 @@ We will be using the ChatGPT website to reason with the assistance and learn fas
 very unlikely case that you are not familiar with the website, you can check
 the [ChatGPT website](https://chat.openai.com/) to get more information. This entry is largely based on
 the [ChatGPT blog post Prompt
-Engineering] (https://platform.openai.com/docs/guides/prompt-engineering), and the research paper [Assigning AI: Seven
+Engineering](https://platform.openai.com/docs/guides/prompt-engineering), and the research paper [Assigning AI: Seven
 Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995) by Ethan and Lilach
 Mollick.
 
@@ -231,7 +231,7 @@ And finally, after the code, a new line with triple quotation delimiters to tell
 is over. This way the AI assistant does not need to figure out which parts are code and which ones aren't, improving the
 results.
 
-### Tip 5: Divide and Conquer — Split Complex Tasks into Smaller Subtasks
+### Tip 4: Divide and Conquer — Split Complex Tasks into Smaller Subtasks
 
 When working with AI assistance, tackling a complex task all at once can be overwhelming for your assistant and may lead
 to vague or incomplete responses. Instead, try to break down the complex task into smaller, more manageable subtasks.
@@ -328,7 +328,7 @@ How can I resolve syntax errors in Python?
 
 This will level up your game, providing you insights on the type of error and helping you to avoid it in the future!
 
-### Tip 6: Deepen your understanding 🌱
+### Tip 5: Deepen your understanding 🌱
 
 You do not need to stop at the answer, you can also ask ChatGPT to explain the answer to you. This will help you
 understand the problem better and also give you a chance to think about the solution. You can also ask for alternative
@@ -396,7 +396,7 @@ with other sources (for instance this book) and make sure the answer is consiste
 would do differently according to other sources, reason with ChatGPT to understand why. This reflection process is very
 important for your learning process and will help you consolidate the knowledge you have gained.
 
-### Tip 7: Test the knowledge you have gained 📝
+### Tip 6: Test the knowledge you have gained 📝
 
 You can use ChatGPT to test yourself, asking it to propose similar exercises, open analysis questions, and test
 questions. This will help you consolidate the knowledge you have gained and also give you a chance to think about the
@@ -423,7 +423,7 @@ solution. For instance, you can continue reasoning with the following prompts:
 
 :::
 
-### Tip 8: Verify and cross-check ✅
+### Tip 7: Verify and cross-check ✅
 
 It is always a good idea to test the code you have received from ChatGPT. You can do this by running the code in your
 computer and checking the results. For instance, you can just create a new Python file and paste the code you have
@@ -432,7 +432,7 @@ a [Jupyter Notebook](Jupyter%20Notebook%20Hello%20World.ipynb) to log your learn
 this later). You should also verify and double-check the information you receive, while the assistant is quite accurate,
 checking other sources will definitively help your comprehension and retention.
 
-### Tip 9: Document Your journey 📔
+### Tip 8: Document Your journey 📔
 
 Maintaining a journal or log where you save the prompts you find useful, the answers you received, and the code you have
 tested is a great way to document your learning process. This journal will serve as an excellent review material and
@@ -445,7 +445,7 @@ and also ask for questions and alternative problems (as per previous tips). Also
 comments to the notebook. This will help you document your learning process and also create a great review material for
 your exams.
 
-### Tip 10: Share your prompts 👫
+### Tip 9: Share your prompts 👫
 
 You can share your prompts with your fellow students, particularly those that you find more interesting. As each one of
 you will have a different and personalized reasoning experience, your conversations will be different and sharing them
