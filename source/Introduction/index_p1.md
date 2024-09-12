@@ -21,13 +21,15 @@ are the main differences between natural languages and programming languages.
 <img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/welcome_message.png" style="width: 100%; max-width: 600px"/>
 
 These are the main topics that we will cover in this chapter:
+## 0️⃣ Use of Artificial Intelligence
+### Tutorials
+- [Reasoning with ChatGPT](./tutorials/Reasoning%20with%20ChatGPT.md): Learn how to use ChatGPT to learn and improve your programming.
 
 ## 1️⃣ Introduction to Python & Python Environments
 ### Tutorials
 - [Introduction to Computer Programming](./tutorials/Introduction%20to%20Computer%20Programming.md): Explore key concepts of programming languages, and Python.
 - [Hello world](./tutorials/Jupyter%20Notebook%20Hello%20World.ipynb): Write your first Python program using the interactive environment ([Google Colab](https://colab.research.google.com/)).
 - [Built-in Functions](./tutorials/Built-in%20Functions.ipynb): Learn how to use built-in functions in Python.
-- [Reasoning with ChatGPT](./tutorials/Reasoning%20with%20ChatGPT.md): Learn how to use ChatGPT to learn and improve your programming.
 
 ### Class Exercises
 - [Built-in functions](./exercises/0.%20Hello%20world.ipynb)
