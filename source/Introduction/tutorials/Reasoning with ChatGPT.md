@@ -1,10 +1,11 @@
-# Reasoning with ChatGPT
+# Reasoning with AI
 
 ## Introduction
 
-[ChatGPT](https://chat.openai.com/) is a conversational Artificial Intelligence (AI) assistant that can really step up
+Conversational Artificial Intelligence (AI) assistants like [ChatGPT](https://chat.openai.com/), [Gemini](https://gemini.google.com), or 
+[Copilot](https://copilot.microsoft.com) are becoming increasingly popular tools that can really step up
 your game in the world of programming, no matter what your current level is. In this Notebook we are going to explore
-the capabilities of ChatGPT and how it can be used to help you with your programming problems. As the online book, this
+the capabilities of conversational AI and how it can be used to help you with your programming problems. As the online book, this
 section focuses on beginner level exercises, but the same principles can be applied to more advanced problems.
 
 One of the main goals of using AI assistance is to be practical and shift the focus from rote coding and theoretical
@@ -29,9 +30,9 @@ provide some sample prompts that can help you use ChatGPT to adapt the learning 
 only help you to get an answer, but also to understand the how and why behind it, which is invaluable for deeper
 learning and application.
 
-## General tips for reasoning with ChatGPT
+## General prompting tips
 
-![general ChatGPT prompting tips](img/ChatGPT_prompting_tips.png)
+![general prompting tips](img/ChatGPT_prompting_tips.png)
 
 ### Tip 1: Do not give up reasoning - Use AI as an assistant 🤔
 
