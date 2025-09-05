@@ -21,25 +21,31 @@ are the main differences between natural languages and programming languages.
 <img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/welcome_message.png" style="width: 100%; max-width: 600px"/>
 
 These are the main topics that we will cover in this chapter:
-## 0️⃣ Use of Artificial Intelligence
-### Tutorials
-- [Reasoning with ChatGPT](./tutorials/Reasoning%20with%20ChatGPT.md): Learn how to use ChatGPT to learn and improve your programming.
 
-## 1️⃣ Introduction to Python & Python Environments
+## 0️⃣ Introduction to Python & Python Environments
 ### Tutorials
 - [Introduction to Computer Programming](./tutorials/Introduction%20to%20Computer%20Programming.md): Explore key concepts of programming languages, and Python.
 - [Hello world](./tutorials/Jupyter%20Notebook%20Hello%20World.ipynb): Write your first Python program using the interactive environment ([Google Colab](https://colab.research.google.com/)).
 - [Built-in Functions](./tutorials/Built-in%20Functions.ipynb): Learn how to use built-in functions in Python.
 
-### Class Exercises
-- [Built-in functions](./exercises/0.%20Hello%20world.ipynb)
+### wrap-up follow along and bonus exercises
+- [Follow along](./follow_along/intro_wrapup_follow_along.ipynb): Follow along the wrap-up exercise to consolidate your knowledge.
+
+##  1️⃣ Use of Artificial Intelligence
+### Tutorials
+- [Reasoning with ChatGPT](./tutorials/Reasoning%20with%20ChatGPT.md): Learn how to use ChatGPT to learn and improve your programming.
+- [Ethics Guide](./tutorials/Ethics%20Guide.md): Learn the ethical implications of using AI tools like ChatGPT.
+### Slides
+- [Use of AI](https://www.canva.com/design/DAGPuPPpCHQ/4uQn9oDoriBrCXrSSXYJrA/view?utm_content=DAGPuPPpCHQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbe106b295d)
+### Class activities
+- [License Plate Validtor](./exercises/kata1_string_dfa.ipynb): Build a license plate validator using AI Assistance.
 
 ## 2️⃣ Variables and Basic Operations
 ### Tutorials
 - [Variables](./tutorials/Variables.ipynb): Learn how to use numeric, string, and boolean variables in Python.
 
-### Class Exercises
-- [Variables](./exercises/1.%20Variables%20and%20Basic%20Operations.ipynb)
+### Class Exercises (cards)
+- [Variables and Basic Operations](./exercises/variable%20exercise%20cards.pdf)
 
 ## 3️⃣ Control Structures and Iterable Objects I
 ### Tutorials
