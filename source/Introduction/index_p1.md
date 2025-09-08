@@ -38,7 +38,7 @@ These are the main topics that we will cover in this chapter:
 ### Slides
 - [Use of AI](https://www.canva.com/design/DAGPuPPpCHQ/4uQn9oDoriBrCXrSSXYJrA/view?utm_content=DAGPuPPpCHQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbe106b295d)
 ### Class activities
-- [License Plate Validtor](./exercises/kata1_string_dfa.ipynb): Build a license plate validator using AI Assistance.
+- [License Plate Validator](./exercises/kata1_string_dfa.ipynb): Build a license plate validator using AI Assistance.
 
 ## 2️⃣ Variables and Basic Operations
 ### Tutorials
@@ -47,6 +47,9 @@ These are the main topics that we will cover in this chapter:
 ### Class Exercises (cards)
 - [Variables and Basic Operations](./exercises/variable%20exercise%20cards.pdf)
 
+### Wrap-up follow along and bonus exercises
+- [Follow along](./follow_along/Variables_Follow_along.ipynb): Follow along the wrap-up exercise to consolidate your knowledge.
+
 ## 3️⃣ Control Structures and Iterable Objects I
 ### Tutorials
 - [Basic Control Structures](./tutorials/Basic%20Control%20Structures.ipynb): Learn the basics of logical expressions and control structures.
@@ -54,8 +57,10 @@ These are the main topics that we will cover in this chapter:
 - [For Loops](./tutorials/For%20Control%20Loop.ipynb): Learn how to use `for` loops and the logical operator `in` in Python.
 
 ### Class Exercises
-- [Basic Control Structures](./exercises/2.%20Basic%20Control%20Structures.ipynb)
-- [Iterables](./exercises/3.%20Iterables.ipynb)
+- [Control Structures and Iterable Objects I](./exercises/control%20structures%20and%20iterables%20exercise%20cards.pdf)
+
+### Wrap-up follow along and bonus exercises
+- [Follow along](./follow_along/Control-Structures-and-Iterables%20wrapup%20follow-along.ipynb): Follow along the wrap-up exercise to consolidate your knowledge.
 
 ## ➕ Extra Contents
 - [Setting up your environment](./tutorials/Setting%20up%20your%20environment.md)
