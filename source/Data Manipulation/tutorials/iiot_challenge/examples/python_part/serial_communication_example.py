@@ -15,7 +15,7 @@ if port is not None:
     arduino = serial.Serial(port, 9600, timeout=1)
 
 # Simulation mode
-# Set the variable simulation_mode to True to simulate the connection to the device to test your Python part
+# Set the variable simulation_mode to True to simulate the connection to the device to Basic control structure cards notebook.ipynb your Python part
 # With this mode, you can run some basic tests to make sure your Python program works before you actually connect
 # to Arduino.
 simulation_mode = True
