@@ -28,15 +28,23 @@ These are the main topics that we will cover in this chapter:
 - [Hello world](./tutorials/Jupyter%20Notebook%20Hello%20World.ipynb): Write your first Python program using the interactive environment ([Google Colab](https://colab.research.google.com/)).
 - [Built-in Functions](./tutorials/Built-in%20Functions.ipynb): Learn how to use built-in functions in Python.
 
+### Class Notes
+- [Introduction to Python & Python Environments](./class%20notes/Intro_to_programming_notes.ipynb)
+
 ### wrap-up follow along and bonus exercises
 - [Follow along](./follow_along/intro_wrapup_follow_along.ipynb): Follow along the wrap-up exercise to consolidate your knowledge.
+
+### Code cards exercises
+- [Functions and variables code cards Notebook](./exercises/Functions%20and%20variable%20lifecycle%20code%20cards.ipynb)
 
 ##  1️⃣ Use of Artificial Intelligence
 ### Tutorials
 - [Reasoning with ChatGPT](./tutorials/Reasoning%20with%20ChatGPT.md): Learn how to use ChatGPT to learn and improve your programming.
 - [Ethics Guide](./tutorials/Ethics%20Guide.md): Learn the ethical implications of using AI tools like ChatGPT.
+
 ### Slides
 - [Use of AI](https://www.canva.com/design/DAGPuPPpCHQ/4uQn9oDoriBrCXrSSXYJrA/view?utm_content=DAGPuPPpCHQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbe106b295d)
+
 ### Class activities
 - [License Plate Validator](./exercises/kata1_string_dfa.ipynb): Build a license plate validator using AI Assistance.
 
@@ -44,8 +52,12 @@ These are the main topics that we will cover in this chapter:
 ### Tutorials
 - [Variables](./tutorials/Variables.ipynb): Learn how to use numeric, string, and boolean variables in Python.
 
-### Class Exercises (cards)
-- [Variables and Basic Operations](./exercises/variable%20exercise%20cards.pdf)
+### Class Notes
+- [Variable Types and Basic Operations](./class%20notes/Variable_notes.ipynb)
+
+### Code cards exercises
+- [Variables and Basic Operations Slides](./exercises/variable%20exercise%20cards.pdf)
+- [Variables and Basic Operations Code Cards Notebook](./exercises/variables%20cards.ipynb)
 
 ### Wrap-up follow along and bonus exercises
 - [Follow along](./follow_along/Variables_Follow_along.ipynb): Follow along the wrap-up exercise to consolidate your knowledge.
@@ -56,8 +68,13 @@ These are the main topics that we will cover in this chapter:
 - [Iterable Objects](./tutorials/Iterable%20Objects%20I.ipynb): Learn how to use iterable objects in Python.
 - [For Loops](./tutorials/For%20Control%20Loop.ipynb): Learn how to use `for` loops and the logical operator `in` in Python.
 
-### Class Exercises
-- [Control Structures and Iterable Objects I](./exercises/control%20structures%20and%20iterables%20exercise%20cards.pdf)
+### Class Notes
+- [Control Structures and Iterable Objects I](./class%20notes/class_notes_29092025.ipynb)
+- [Control Structures and Iterable Objects II](./class%20notes/class_notes_30092025.ipynb)
+
+### Code Card Exercises
+- [Control Structures and Iterable Objects Slides](./exercises/control%20structures%20and%20iterables%20exercise%20cards.pdf)
+- [Control Structures and Iterable Objects Code Cards Notebook](./exercises/Control%20structures%20and%20iterables%20cards%20notebook.ipynb)
 
 ### Wrap-up follow along and bonus exercises
 - [Follow along](./follow_along/Control-Structures-and-Iterables%20wrapup%20follow-along.ipynb): Follow along the wrap-up exercise to consolidate your knowledge.
