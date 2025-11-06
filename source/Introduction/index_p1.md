@@ -74,7 +74,7 @@ These are the main topics that we will cover in this chapter:
 
 ### Code Card Exercises
 - [Control Structures and Iterable Objects Slides](./exercises/control%20structures%20and%20iterables%20exercise%20cards.pdf)
-- [Control Structures and Iterable Objects Code Cards Notebook](./exercises/Control%20structures%20and%20iterables%20cards%20notebook.ipynb)
+- [Control Structures and Iterable Objects Code Cards Notebook](./exercises/Basic%20control%20structure%20cards%20notebook.ipynb)
 
 ### Wrap-up follow along and bonus exercises
 - [Follow along](./follow_along/Control-Structures-and-Iterables%20wrapup%20follow-along.ipynb): Follow along the wrap-up exercise to consolidate your knowledge.
