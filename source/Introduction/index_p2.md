@@ -24,30 +24,56 @@ The main **objectives** of this chapter are:
 
 These are the main topics that we will cover in this chapter:
 
-## 1️⃣ Data acquisition: Interacting with serial devices
-### Tutorials
-- [](../Data%20Manipulation/tutorials/Serial%20Communication.ipynb): Get familiar with key concepts surrounding data manipulation.
-
-## 2️⃣ Introduction to structured input and output data formats.
+## 1️⃣ Introduction to advanced data input and output.
 ### Tutorials
 - [Introduction to Data Manipulation and Analysis](../Data%20Manipulation/tutorials/Introduction.ipynb): Get familiar with key concepts surrounding data manipulation.
 - [Iterables II](./tutorials/Iterable%20Objects%20II.ipynb): Learn about Dictionaries and cool tricks to manipulate complex iterable objects.
+
+### Class Notes
+- [Iterables II](../Introduction/class%20notes/Iterable_Objects_II_Class_Notes.ipynb): Lecture notes and exercises.
+
+### Code cards
+- (Not available yet)
+
+## 2️⃣ Introduction to structured input and output data formats.
+### Tutorials
 - [File Formats](../Data%20Manipulation/tutorials/Files.ipynb): Get familiar with popular data file formats like CSV and JSON.
 
-## 3️⃣ Numerical Data Manipulation
+### Class Notes
+- [File Formats](../Data%20Manipulation/class%20notes/files_class_notes_notebook.ipynb): Lecture notes and exercises.
+
+### Code cards
+- (Not available yet)
+
+## 3️⃣ Data streaming and serial communication.
+### Tutorials
+- [Serial Communication](../Data%20Manipulation/tutorials/Serial%20Communication.ipynb): Learn how to communicate with external devices using serial communication.
+
+### Class Notes
+- [Serial Communication](../Data%20Manipulation/exercises/Serial%20Communication%20exercises.ipynb): Template programs and related code cards.
+
+## 4️⃣ Data manipulation and analysis with Pandas.
+### Tutorials
+- [Introduction to Pandas](../Data%20Manipulation/tutorials/Pandas%20tutorial.ipynb): Learn how to work with structured data using Python.
+- [Data Analysis with Pandas](../Databases/tutorials/Introduction%20to%20Databases.ipynb): Learn the basics of databases and relational models. 
+
+### Class Notes
+- [Pandas Basics](../Data%20Manipulation/class%20notes/pandas_class_notes_notebook.ipynb): Lecture class notes and exercises.
+
+### Class exercises
+- (Not available yet)
+
+## 5️⃣ Numerical data manipulation with Numpy.
 ### Tutorials
 - [Introduction to Numpy](../Applied%20Mathematics/tutorials/Numpy%20tutorial.ipynb): Get familiar with the Numpy library and Numpy Arrays.
 - [Linear Algebra with Numpy](../Applied%20Mathematics/tutorials/Linear%20Algebra%20with%20Numpy.ipynb): Learn how to solve linear algebra problems with Numpy.
 
-### Class Exercises
-- [Serial Communication](../Data%20Manipulation/exercises/Serial%20Communication%20exercises.ipynb)
+## ➕ Extra Contents
+### Extra Exercises
 - [File Formats and iterable objects](../Data%20Manipulation/exercises/Files%20exercises.ipynb)
 - [Numpy Arrays](../Applied%20Mathematics/exercises/Numpy%20arrays.ipynb)
 
-
-## ➕ Extra Contents
 - [Modularization](../Modularization/tutorials/Modules.ipynb)
-- [Writing your own functions](../Modularization/tutorials/Functions.ipynb)
 - [Object Oriented Programming](../Modularization/tutorials/Objects.ipynb)
 
 
