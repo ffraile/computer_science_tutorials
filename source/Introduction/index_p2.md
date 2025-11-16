@@ -50,7 +50,7 @@ These are the main topics that we will cover in this chapter:
 - [Serial Communication](../Data%20Manipulation/tutorials/Serial%20Communication.ipynb): Learn how to communicate with external devices using serial communication.
 
 ### Class Notes
-- [Serial Communication](../Data%20Manipulation/exercises/Serial%20Communication%20exercises.ipynb): Template programs and related code cards.
+- [Serial Communication](../Data%20Manipulation/exercises/serial_communication_templates_and_questions.ipynb): Hands on assignment: Template programs and related code cards.
 
 ## 4️⃣ Data manipulation and analysis with Pandas.
 ### Tutorials

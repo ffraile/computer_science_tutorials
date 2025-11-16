@@ -10,6 +10,7 @@
 #    '5' = LED ON
 #    '6' = LED OFF
 #    'c' = continuous log to CSV (Ctrl+C to stop)
+#    's' = set simulation mode
 #    'q' = quit
 #       - Logs: timestamp, uptime_ms, vcc_mv, rand, led
 # Dependencies: pyserial
@@ -17,6 +18,7 @@
 import serial
 import time
 import os
+import csv
 from datetime import datetime
 
 # Set your serial port here (examples: 'COM7', '/dev/ttyACM0', '/dev/ttyUSB0')
@@ -49,7 +51,7 @@ def parse_metric(line, key):
         return line[len(prefix):].strip() # Remove prefix and whitespaces
     return None
 
-def read_metrics_once(ser):
+def read_metrics_once(ser, sim_mode=False):
     """
     Query Arduino for a set of built-in readings:
       '1' -> UPTIME_MS:<int>
@@ -59,47 +61,54 @@ def read_metrics_once(ser):
     Returns a string to be written as a CSV row.
     """
     ts = datetime.now().isoformat(timespec="seconds")
+    row = {"timestamp": ts, "uptime_ms": "", "vcc_mv": "", "led": ""}
 
-    # Uptime
-    r = send_cmd(ser, '1')  # expect UPTIME_MS:<int>
-    uptime_ms = parse_metric(r, "UPTIME_MS")
+    if sim_mode:
+        # Simulated data
+        uptime_ms = int(time.time() * 1000) % 1000000
+        row["uptime_ms"] = uptime_ms
+        vcc_mv = 5000 + (uptime_ms % 1000)  # Vcc varies slightly
+        row["vcc_mv"] = vcc_mv
+        led = uptime_ms // 1000 % 2          # LED toggles every second
+        row["led"] = led
+    else:
+        # Uptime
+        r = send_cmd(ser, '1')  # expect UPTIME_MS:<int>
+        v = parse_metric(r, "UPTIME_MS")
+        row["uptime_ms"] = v if v is not None else ""
 
-    # Vcc
-    r = send_cmd(ser, '2')  # expect VCC_mV:<int>
-    v = parse_metric(r, "VCC_mV")
-    vcc_mv = parse_metric(r, "RAND")
+        # Vcc
+        r = send_cmd(ser, '2')  # expect VCC_mV:<int>
+        v = parse_metric(r, "VCC_mV")
+        row["vcc_mv"] = v if v is not None else ""
 
 
-    # LED state
-    r = send_cmd(ser, '4')  # expect LED:<0|1>
-    v = parse_metric(r, "LED")
-    led = parse_metric(r, "LED")
+        # LED state
+        r = send_cmd(ser, '4')  # expect LED:<0|1>
+        v = parse_metric(r, "LED")
+        row["led"] = v if v is not None else ""
+    return row
 
-    return f"{ts},{uptime_ms},{vcc_mv},{led}\n"
 
-
-def log_continuous(ser, out_path="arduino_log.csv", period=1.0):
+def log_continuous(ser, out_path="arduino_log.csv", period=1.0, sim_mode=False):
     """
     Poll metrics every 'period' seconds and append to CSV.
     Stop with Ctrl+C.
     """
     fields = ["timestamp", "uptime_ms", "vcc_mv", "led"]
+    # Ensure output directory exists
+    if not os.path.exists(os.path.dirname(out_path)):
+        with open(out_path, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=fields)
+            writer.writeheader()
     print(f"📝 Logging to {out_path} every {period:.2f}s — press Ctrl+C to stop.")
     try:
         with open(out_path, "a+", encoding="utf-8") as f:
             while True:
                 t0 = time.time()
-                row = read_metrics_once(ser)
-                f.seek(0) # Move to start to check if file is empty
-                previous_line = f.read()  # Read the file content
-                if not previous_line:
-                    # Write header if file was empty
-                    f.write(", ".join(fields) + "\n")
-                else:
-                    f.seek(0, os.SEEK_END)  # Move to end for appending
-                    # Write data row
-                    f.write(row)
-
+                writer = csv.DictWriter(f, fieldnames=fields)
+                row = read_metrics_once(ser, sim_mode=sim_mode)
+                writer.writerow(row)
                 f.flush()
                 # Console status line
                 print(row)
@@ -113,13 +122,21 @@ def log_continuous(ser, out_path="arduino_log.csv", period=1.0):
         print("\n⏹️  Logging stopped.")
 
 def main():
+    sim_mode = False  # By default, simulation mode is off
     arduino = open_serial()
     if arduino is None:
-        return
+        sim_mode_on = input("Arduino not available, press Enter to exit or 's' to enable simulation mode: ").strip().lower() == 's'
+        if sim_mode_on:
+            sim_mode = True
+            print("⚠️  Simulation mode enabled. No Arduino connected.")
+        else:
+            return
+    else:
+        print(f"✅ Connected to Arduino on {PORT} at {BAUD} baud.")
 
-    # Optional: do a handshake
-    hello = send_cmd(arduino, '0')   # expect ACK;...;UPTIME_MS=...
-    print("Handshake:", hello or "(no reply)")
+        # Optional: do a handshake
+        hello = send_cmd(arduino, '0')   # expect ACK;...;UPTIME_MS=...
+        print("Handshake:", hello or "(no reply)")
 
     print(r"""
  _      __    __
@@ -157,14 +174,17 @@ Commands:
                 path = input("CSV path [arduino_log.csv]: ").strip() or "arduino_log.csv"
                 try:
                     period = float(input("Sampling period seconds [1.0]: ").strip() or "1.0")
-                    period = max(0.1, period)  # clamp to sane lower bound
+                    period = max(0.1, period)  # clamp to safe lower bound
                 except ValueError:
                     period = 1.0
-                log_continuous(arduino, out_path=path, period=period)
+                log_continuous(arduino, out_path=path, period=period, sim_mode=sim_mode)
                 continue
 
-            reply = send_cmd(arduino, cmd)
-            print("→", reply or "(no reply / timeout)")
+            if sim_mode:
+                print("→ (simulation mode: no reply)")
+            else:
+                reply = send_cmd(arduino, cmd)
+                print("→", reply or "(no reply / timeout)")
 
     except KeyboardInterrupt:
         print("\nInterrupted. Bye!")
