@@ -33,7 +33,7 @@ These are the main topics that we will cover in this chapter:
 - [Iterables II](../Introduction/class%20notes/Iterable_Objects_II_Class_Notes.ipynb): Lecture notes and exercises.
 
 ### Code cards
-- (Not available yet)
+- [Iterables II Code Cards](../Introduction/exercises/iterables%20II%20code%20cards.ipynb)
 
 ## 2️⃣ Introduction to structured input and output data formats.
 ### Tutorials
@@ -42,8 +42,7 @@ These are the main topics that we will cover in this chapter:
 ### Class Notes
 - [File Formats](../Data%20Manipulation/class%20notes/files_class_notes_notebook.ipynb): Lecture notes and exercises.
 
-### Code cards
-- (Not available yet)
+
 
 ## 3️⃣ Data streaming and serial communication.
 ### Tutorials
@@ -51,6 +50,9 @@ These are the main topics that we will cover in this chapter:
 
 ### Class Notes
 - [Serial Communication](../Data%20Manipulation/exercises/serial_communication_templates_and_questions.ipynb): Hands on assignment: Template programs and related code cards.
+
+### Code cards
+- [Serial Communication](../Data%20Manipulation/exercises/Serial%20Communication%20cards.ipynb)
 
 ## 4️⃣ Data manipulation and analysis with Pandas.
 ### Tutorials
@@ -61,12 +63,18 @@ These are the main topics that we will cover in this chapter:
 - [Pandas Basics](../Data%20Manipulation/class%20notes/pandas_class_notes_notebook.ipynb): Lecture class notes and exercises.
 
 ### Class exercises
-- (Not available yet)
+- [Pandas code cards](../Data%20Manipulation/exercises/Pandas%20code%20cards.ipynb)
 
 ## 5️⃣ Numerical data manipulation with Numpy.
 ### Tutorials
 - [Introduction to Numpy](../Applied%20Mathematics/tutorials/Numpy%20tutorial.ipynb): Get familiar with the Numpy library and Numpy Arrays.
 - [Linear Algebra with Numpy](../Applied%20Mathematics/tutorials/Linear%20Algebra%20with%20Numpy.ipynb): Learn how to solve linear algebra problems with Numpy.
+
+### Class Notes
+-[Numpy Class Notes](../Applied%20Mathematics/class%20notes/Intro_to_NumPy_and_Linear_Algebra_follow_along.ipynb)
+
+### Class exercises
+- [Numpy class exercises](../Applied%20Mathematics/exercises/Numpy%20code%20cards.ipynb)
 
 ## ➕ Extra Contents
 ### Extra Exercises
