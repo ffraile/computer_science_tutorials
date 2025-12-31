@@ -73,7 +73,7 @@ These are the main topics that we will cover in this chapter:
 ### Class Notes
 -[Numpy Class Notes](../Applied%20Mathematics/class%20notes/Intro_to_NumPy_and_Linear_Algebra_follow_along.ipynb)
 
-### Class exercises
+### Code Cards
 - [Numpy class exercises](../Applied%20Mathematics/exercises/Numpy%20code%20cards.ipynb)
 
 ## ➕ Extra Contents
