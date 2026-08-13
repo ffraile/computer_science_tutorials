@@ -19,7 +19,8 @@ if __name__ == '__main__':
             binder_file_name = "%2F".join(template_file.parts[1:]).replace(" ", "%20")
             badges = "## Try me\\n\"," +\
                      "\"[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/{0}/blob/{1}/{2}/{3})".format(git_repo, branch, path_to_template_folders, colabs_file_name) +\
-                     "[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/{0}/{1}?labpath={2}%2F{3})".format(git_repo, branch, path_to_template_folders.replace("/","%2F"), binder_file_name)
+                     "[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/{0}/{1}?labpath={2}%2F{3})".format(git_repo, branch, path_to_template_folders.replace("/","%2F"), binder_file_name) +\
+                     "[![Github](https://img.shields.io/badge/download-github-blue?logo=github)](https://github.com/{0}/raw/{1}/{2}/{3})".format(git_repo, branch, path_to_template_folders, colabs_file_name)
 
             with open(template_file, 'r', encoding="utf8") as in_file:
                 try:
