@@ -7,56 +7,111 @@ We will cover the following topics:
 
 2️⃣ [Installing a Python IDE](#2-installing-a-python-ide)
 
-3️⃣ [Installing Packages with pip](#3-installing-packages-with-pip)
+3️⃣ [Installing Git](#3-installing-git)
+
+4️⃣ [Sign up for GitHub](#4-signing-up-for-a-github-account)
 
 ## 1️⃣ Installing Python
-First off, we're going to need Python, the language of choice for this and many programmers worldwide, as you may have 
-read in the introduction, loved for its simplicity and elegance.
+First off, we're going to need Python, the language of choice for this course.
 
-To install Python, just go to the official Python downloads page at https://www.python.org/ and just choose the version 
-that is right for your operating system (Windows, MacOS, Linux). 
+### Installing Python on Windows
+#### Installing Python using Microsoft Store (Recommended for Windows)
+The easiest way to install Python on Windows is through the Microsoft Store. Follow these steps:
+1. Open the Microsoft Store app on your Windows computer.
+2. Search for "Python" in the search bar.
+3. Select the latest version of Python (e.g., Python 3.x) from the search results.
+4. Click the "Get" or "Install" button to download and install Python.
 
-> ☝ If you hover over the download button in the homepage, Python will automatically detect your operating system and
-> show you a link to download the latest stable version. If you are unsure, just click on the button and it 
-> will automatically download the installer for your system.
+Once the installation is complete, you can verify that Python is installed correctly following the instructions in the 
+[Verifying Python Installation (Windows)](#verifying-python-installation-(windows))) section below.
 
-<img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/download_python.png" style="width: 100%; max-width: 600px"/>
+#### Installing Python from the official website
+To install Python, just go to the official Python downloads page at https://www.python.org/downloads/. The website will 
+automatically suggest the best version for your system. Click on the download link and follow the installation instructions.
 
-As a reference, at the time of writing this tutorial, the latest stable version is Python 3.11.4 and below you can 
-find links to the installers for the most popular operating systems:
-- [Windows Installer](https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe)
-- [MacOS Universal Installer](https://www.python.org/ftp/python/3.11.4/python-3.11.4-macos11.pkg)
+As a reference, at the time of writing this tutorial, the latest stable version is Python 3.14.7 and below you can 
+find links to the installer for Windows:
+- [Windows Installer](https://www.python.org/downloads/release/python-3147)
 
 
-Now, just run the installer file and follow the prompts. 
+Once the download is complete, just run the installer file and follow the prompts. 
 Make sure to check the box that says "Add Python to PATH" before clicking "Install Now". This step is important; it adds
 Python to your system's environment variables, making it easier to run.
 
-In Windows, you just need to click on the "Add Python to PATH" checkbox, and click on Install Now as shown in the following screenshot:
 
 <img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/install_python.png" style="width: 100%; max-width: 600px"/>
 
+#### Verifying Python Installation (Windows)
 That's it! To check if Python is installed 
-correctly, open your system's command line (PowerShell in Windows and Terminal in MacOS), type:
+correctly, open your system's command line (PowerShell in Windows), type:
 
 ```shell
 python --version
 ``` 
 
-and hit enter. For instance, the following screenshot 
-shows how to do it in Windows PowerShell (wow, it has not been updated in a while!):
+To do so, press the Windows key, type "PowerShell", and hit Enter. In the PowerShell window, type the command above and press Enter:
 
 <img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/powershell.PNG" style="width: 100%; max-width: 600px"/>
 
 If you followed the steps, you should see Python's version displayed. 🎉
 
+### Installing Python on macOS
+#### Installing Python using the official website (Recommended for macOS)
+As for Windows, to install Python from the website, just go to the official Python downloads page at https://www.python.org/downloads/. The website will 
+automatically suggest the best version for your system. Click on the download link and follow the installation instructions.
+
+As a reference, at the time of writing this tutorial, the latest stable version is Python 3.14.7 and below you can 
+find links to the installer for MacOS:
+- [MacOS Installer](https://www.python.org/downloads/release/python-3147
+
+Click on the installer link and follow the installation instructions. Once the installation is complete, you can verify that Python is installed correctly following the instructions in the
+
+#### Installing Python using Homebrew (Alternative for macOS)
+If you prefer using a package manager, you can install Python using Homebrew. If you don't have Homebrew installed, 
+you can install it by following the instructions on the [Homebrew website](https://brew.sh/). 
+Once Homebrew is installed, open your terminal and run the following command:
+
+```shell
+brew install python
+```
+
+#### Verifying Python Installation (macOS)
+To check if Python is installed correctly, first open a terminal window. The easiest way to open a terminal window is to 
+use Spotlight Search (either click on the magnifying glass icon in the top-right corner of your screen or press Command + Space) and type "Terminal". 
+Then, type the following command and press Enter:
+
+```shell
+python3 --version
+```
+You should see Python's version displayed. 🎉
+
+![Verifying Python Installation on macOS](img/terminalshell.PNG)
+
+
 ## 2️⃣ Installing a Python IDE
 Now that we have Python installed, we need a way to write and run our Python code. For this, we will use an Integrated Development Environment, or IDE in short.
-If you want to know what IDEs can do for you, and why you should use one, and what other popular tools are there, 
 
-I strongly suggest you to check out this [tutorial](../../Software%20Engineering/tutorials/Development%20Tools.ipynb).
+An IDE is a software application that provides comprehensive facilities to computer programmers for software development. 
+It typically consists of a source code editor, build automation tools, and a debugger.
 
 For the remaining of the course, we will use [Visual Studio Code](https://code.visualstudio.com/), a free and open-source IDE developed by Microsoft.
+
+Visual Studio Code is a lightweight but powerful source code editor that runs on your desktop and is available for 
+Windows, macOS, and Linux. It supports multiple programming languages and additional add-ons and features through 
+**extensions**. We will install Visual Studio Code and the recommended extensions for the course. 
+
+### Installing Visual Studio Code
+
+#### Installing from the App Store or Microsoft Store (recommended)
+The easiest way to install Visual Studio Code is through the App Store (macOS) or Microsoft Store (Windows):
+1. Open the App Store (macOS) or Microsoft Store (Windows) on your computer.
+2. Search for "Visual Studio Code" in the search bar.
+3. Select Visual Studio Code from the search results.
+4. Click the "Get" or "Install" button to download and install Visual Studio Code.
+
+Once the installation is complete, you can launch Visual Studio Code from your applications menu.
+
+#### Installing from the official website
 
 First, Visit the VS Code homepage at https://code.visualstudio.com/.
 
@@ -71,20 +126,91 @@ At the time of writing, the prompts are:
 - Choose the start menu folder (or leave it as the default Visual Studio Code)
 - Choose the additional tasks (or leave them as default, which is recommended)
 
-##  Installing the Python extension
-Once installed, open VS Code and navigate to the Extensions view by clicking on the Extensions icon in the Activity Bar, which is the vertical menu bar on the left side of the window. 
-(or use the shortcut Ctrl+Shift+X). The Extensions icon is the one that looks like a square with four squares in it and at the time of writing is the fifth icon from the top.
-Search for the Python extension in the marketplace and install it. It's published by Microsoft, and it's going to make your Python coding in VS Code a breeze!
+###  Installing the Recommended Extensions
+We are going to install the following recommended extensions for Visual Studio Code:
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python): This extension provides rich support for the Python language.
+- [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev): This extension provides AI-
+powered code completion and assistance.
+- [Arduino](https://marketplace.visualstudio.com/items?itemName=Arduino.Arduino): This extension provides support for 
+Arduino development.
+
+To install the extensions, follow these steps:
+1. Open Visual Studio Code.
+2. Click on the Extensions icon in the left sidebar (see image below), or press Ctrl+Shift+X on Windows or 
+Command+Shift+X on macOS)
+3. In the search bar, type the name of the extension you want to install (e.g., "Python").
+4. Click on the "Install" button next to the extension in the search results.
+
 
 ![vscode extensions](img/vscode_extensions.PNG)
 
-You're all set! You've got Python and a powerful text editor. You're officially ready to start your Python journey! 
-But don't worry; we're just getting started. In our upcoming lectures, 
-we'll explore the magic of Python together, and trust me, you're going to love it! 🚀
+As an alternative method, you can also install the extensions directly from the Visual Studio Code Marketplace by 
+visiting the links provided above and clicking on the "Install" button.
 
-So, welcome aboard, future Pythonista! You've just taken your first step into a bigger world.
+### Configuring Cline
+Once you have installed the Cline extension, you need to configure it to use an AI model. Cline allows you to use some 
+AI models for free, but you can also use your own OpenAI, Anthropic, or Google account to access more powerful models. 
+To configure Cline, follow these steps:
+- Open the extension by clicking on the Cline icon in the left sidebar (see image below).
+- If it is the first time you are using Cline, you will be prompted to sign in with your OpenAI, Anthropic, 
+or Google account, or you can choose to use the free models provided by Cline. 
+  - **Using free models**: The configuration interface will 
+forward you to a website where you can complete the required steps. If you are using the free models, you will be 
+requested to create a free account with Cline. Once you have completed the sign-in process, you will be redirected back 
+to Visual Studio Code.
+  - **Using your own account**: The configuration interface will allow you to connect your existing OpenAI, Anthropic, 
+  or Google account, and create an API key to use with Cline. Cline will redirect you to the website of the selected 
+  provider, where you will be able to create an API key. Once you have created the API key, you will be redirected back to Visual Studio Code.
 
-## 3️⃣ Installing Packages with pip
+If you want to change these settings, just click on the gear icon in the Cline extension and select "Settings". 
+From there, you can change the AI model.
+
+
+## 3️⃣ Installing Git
+Git is a free and open-source distributed version control system that allows you to track changes in your code and 
+collaborate with others. It is widely used in software development and is an essential tool for any developer. 
+
+In this section, we will install Git on your computer and configure it for use with Visual Studio Code.
+
+### Installing Git on Windows
+To install Git on Windows, follow these steps:
+1. Visit the Git website at https://git-scm.com/install/windows
+2. Click on the **Click here to download** button to download the Git installer for Windows.
+3. Run the installer and follow the prompts. You can leave the default settings as they are, 
+but make sure to select the option to add Git to your system PATH.
+
+### Installing Git on macOS
+To install Git on macOS, you can use Homebrew. If you don't have Homebrew installed, you can install it by following 
+the instructions on the [Homebrew website](https://brew.sh/). Once Homebrew is installed, open your terminal and run the following command:
+
+```shell
+brew install git
+```
+
+### Verifying Git Installation
+To check if Git is installed correctly, open a terminal window and type the following command:
+
+```shell
+git --version
+```
+
+You should see Git's version displayed. 🎉
+
+### Using Git with Visual Studio Code
+Visual Studio Code has built-in support for Git. To start using Git with Visual Studio Code, you just need to restart 
+Visual Studio Code after installing Git. 
+
+## 4️⃣ Signing up for a GitHub account
+It is strongly recommended to sign up for a GitHub account, as it will be useful for many things, including:
+- Storing your code in the cloud
+- Sharing your code with others
+- Collaborating with others
+- Using GitHub Copilot, an AI-powered pair programmer that helps you write code faster and with less effort.
+
+To sign up for a GitHub account, just go to [github.com](https://github.com) and click on the "Sign up" button, you just need to provide your email address, a username, and a password.
+
+
+## Extra: Installing Packages with pip
 Python comes with a built-in package installation manager called `pip`, which is short for "Pip Installs Packages".
 It is used to install and manage software packages written in Python. Using pip is very easy, you just need to open a terminal and type:
 
@@ -141,15 +267,12 @@ cd D
 
 and then hit the ```TAB``` key, the terminal will autocomplete the folder name if there is only one folder that starts with the letter "D". If there are more than one, you can type more letters and hit ```TAB``` again to autocomplete the folder name. You can also use the ```TAB``` key to autocomplete file names, or sub-directories!
 
-## Extra: Signing up for GitHub and Copilot
-It is strongly recommended to sign up for a GitHub account, as it will be useful for many things, including:
-- Storing your code in the cloud
-- Sharing your code with others
-- Collaborating with others
-- Using GitHub Copilot, an AI-powered pair programmer that helps you write code faster and with less effort.
+## Extra: Signing up for Google AI Plus Student Plan
+If you are a student, you can sign up for the Google AI Plus Student Plan, which provides free access to Google Cloud AI 
+services, including the use of AI models for your projects. To sign up for the Google AI Plus Student Plan, access
+this site: [https://one.google.com/ai-student](https://one.google.com/ai-student) and follow the instructions to sign up.
 
-To sign up for a GitHub account, just go to github.com and click on the "Sign up" button, you just need to provide your email address, a username, and a password.
-
+## Extra: Signing up for GitHub Copilot
 Copilot is provided off-the-shelf with your Github account, so you don't need to do anything else to get it, but you will 
 need a GitHub Pro account or a free academic account to use it.
 

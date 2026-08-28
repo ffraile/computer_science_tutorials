@@ -16,6 +16,18 @@ This section contains some basic tutorials:
     Object Oriented Programming </Modularization/tutorials/Objects>
     Importing External Modules </Modularization/tutorials/Modules>
 
+Class materials
+_______________
+Follow-along notebooks and classroom practice:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+    :titlesonly:
+
+    Session 17 Follow-along </Modularization/follow_along/Session 17 - Structured programming and functions - follow along>
+    Session 17 Practice </Modularization/exercises/Session 17 - Structured programming and functions - practice>
+
 Exercises
 __________
 This section contains some exercises:
