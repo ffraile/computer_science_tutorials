@@ -27,6 +27,8 @@ Follow-along notebooks and classroom practice:
 
     Session 17 Follow-along </Modularization/follow_along/Session 17 - Structured programming and functions - follow along>
     Session 17 Practice </Modularization/exercises/Session 17 - Structured programming and functions - practice>
+    Session 18 Follow-along </Modularization/follow_along/Session 18 - Advanced iterables - follow along>
+    Session 18 Practice </Modularization/exercises/Session 18 - Advanced iterables - practice>
 
 Exercises
 __________
