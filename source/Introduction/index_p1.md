@@ -56,7 +56,7 @@ Each session contains:
 
 ## Session 03 — Course environment, Git and governed AI
 
-**Date:** 16 September
+**Date:** 14 September
 
 **Focus:** Prepare the complete course workflow: Colab, local Python and Jupyter,
 Visual Studio Code, Git, GitHub, Gemini and Cline.
@@ -68,7 +68,7 @@ assistance with and without the course tutor configuration.
 
 ### Presentation
 
-- [Session 03 presentation(https://canva.link/rgs70e3ordi9m2v)
+- [Session 03 presentation](https://canva.link/rgs70e3ordi9m2v)
 
 ### Class materials
 
@@ -89,7 +89,7 @@ assistance with and without the course tutor configuration.
 
 ## Session 04 — Python execution, functions and libraries
 
-**Date:** 22 September
+**Date:** 17 September
 
 **Focus:** Understand how Python and notebook execution work, call available
 functions and use Python libraries without defining functions of our own yet.
@@ -117,7 +117,7 @@ and read simple syntax and runtime errors.
 
 ## Session 05 — Variables, types and numeric operations
 
-**Date:** 23 September
+**Date:** 18 September
 
 **Focus:** Represent changing program state and construct meaningful numeric
 expressions.
@@ -147,7 +147,7 @@ necessary information or precision.
 
 ## Session 06 — Boolean expressions and selection control flow
 
-**Date:** 29 September
+**Date:** 21 September
 
 **Focus:** Model decisions with Boolean values, comparisons and conditional
 branches.
@@ -176,7 +176,7 @@ conditions with `and`, `or` and `not`; select actions with `if`, `if-else` and
 
 ## Session 08 — Loops, lists, series and visualisation
 
-**Date:** 6 October
+**Date:** 30 September
 
 **Focus:** Repeat operations, preserve successive results and represent an
 ordered series graphically.
