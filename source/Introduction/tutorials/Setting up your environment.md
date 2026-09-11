@@ -25,19 +25,14 @@ The easiest way to install Python on Windows is through the Microsoft Store. Fol
 Once the installation is complete, you can verify that Python is installed correctly following the instructions in the 
 [Verifying Python Installation (Windows)](#verifying-python-installation-(windows))) section below.
 
-#### Installing Python from the official website
-To install Python, just go to the official Python downloads page at https://www.python.org/downloads/. The website will 
-automatically suggest the best version for your system. Click on the download link and follow the installation instructions.
+#### Installing Python from the official website (Alternative method for Windows)
+If you prefer to install Python from the official website, follow these steps:
+1. Go to the official Python website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. Click on the "Download Python" button for the latest version (e.g., Python 3.x).
+3. Run the downloaded installer and follow the on-screen instructions. Make sure to check the box that says "Add Python to PATH" during the installation process.
 
-As a reference, at the time of writing this tutorial, the latest stable version is Python 3.14.7 and below you can 
-find links to the installer for Windows:
-- [Windows Installer](https://www.python.org/downloads/release/python-3147)
-
-
-Once the download is complete, just run the installer file and follow the prompts. 
-Make sure to check the box that says "Add Python to PATH" before clicking "Install Now". This step is important; it adds
-Python to your system's environment variables, making it easier to run.
-
+This will allow you to run Python from the command line. However, installing from the Microsoft Store is recommended for Windows 
+users, as it simplifies the installation process and ensures that you have the latest version of Python.
 
 <img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/install_python.png" style="width: 100%; max-width: 600px"/>
 
@@ -62,7 +57,7 @@ automatically suggest the best version for your system. Click on the download li
 
 As a reference, at the time of writing this tutorial, the latest stable version is Python 3.14.7 and below you can 
 find links to the installer for MacOS:
-- [MacOS Installer](https://www.python.org/downloads/release/python-3147
+- [MacOS Installer](https://www.python.org/downloads/release/python-3147)
 
 Click on the installer link and follow the installation instructions. Once the installation is complete, you can verify that Python is installed correctly following the instructions in the
 
@@ -74,6 +69,8 @@ Once Homebrew is installed, open your terminal and run the following command:
 ```shell
 brew install python
 ```
+It is recommended to install Python from the official website because it is easier, however, if you are going to install 
+git later, you will need to install Homebrew anyway, so you can also install Python using Homebrew.
 
 #### Verifying Python Installation (macOS)
 To check if Python is installed correctly, first open a terminal window. The easiest way to open a terminal window is to 
