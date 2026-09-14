@@ -73,6 +73,7 @@ assistance with and without the course tutor configuration.
 ### Class materials
 
 - [Hello-world Notebook](./follow_along/session%2003%20-%20follow_along.ipynb)
+- [Visual Studio Hello world](./tutorials/Hello%20World.ipynb): Read this to download the Notebook and run it in your local environment.
 - [Course workspace template](https://github.com/ffraile/edem-computer-science-course): Download the governed workspace, initialise its Git history and publish it as a private student repository.
 
 
