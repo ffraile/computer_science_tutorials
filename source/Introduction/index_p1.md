@@ -148,7 +148,7 @@ necessary information or precision.
 
 ## Session 06 — Boolean expressions and selection control flow
 
-**Date:** 21 September
+**Date:** 23 September
 
 **Focus:** Model decisions with Boolean values, comparisons and conditional
 branches.
