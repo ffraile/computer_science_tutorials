@@ -29,6 +29,14 @@ Follow-along notebooks and classroom practice:
     Session 17 Practice </Modularization/exercises/Session 17 - Structured programming and functions - practice>
     Session 18 Follow-along </Modularization/follow_along/Session 18 - Advanced iterables - follow along>
     Session 18 Practice </Modularization/exercises/Session 18 - Advanced iterables - practice>
+    Session 20 Follow-along </Modularization/follow_along/Session 20 - NumPy arrays and numerical operations - follow along>
+    Session 20 Practice </Modularization/exercises/Session 20 - NumPy arrays and numerical operations - practice>
+    Session 22 Follow-along </Modularization/follow_along/Session 22 - Structured data and serialisation - follow along>
+    Session 22 Practice </Modularization/exercises/Session 22 - Structured data and serialisation - practice>
+    Session 23 Follow-along </Modularization/follow_along/Session 23 - Pandas foundations - follow along>
+    Session 23 Practice </Modularization/exercises/Session 23 - Pandas foundations - practice>
+    Session 24 Follow-along </Modularization/follow_along/Session 24 - Pandas analysis - follow along>
+    Session 24 Practice </Modularization/exercises/Session 24 - Pandas analysis - practice>
 
 Exercises
 __________
