@@ -1,0 +1,98 @@
+% exam-cover.tex — reusable cover page for exams
+% Usage:
+%   \input{exam-cover}                       % in preamble or after \begin{document}
+%   \examsetup{Course}{Program}{Year}{Type}{Date}{Duration}
+%   \begin{document}
+%   \makeexamcover
+%   ... exam content ...
+
+% Appearance variables for exam regulations
+\providecommand{\ExamRegBgColor}{gray!12}   % background color
+\providecommand{\ExamRegPadding}{8pt}       % inner padding of the box
+\providecommand{\ExamRegFont}{\small}       % one-point smaller than the base class
+
+% ---------- Variables (defaults) ----------
+\providecommand{\ExamCourse}{Course Name}
+\providecommand{\ExamProgram}{Program / Cohort}
+\providecommand{\ExamYear}{2025--2026}
+\providecommand{\ExamType}{Final Exam}
+\providecommand{\ExamDate}{DD/MM/YYYY}
+\providecommand{\ExamDuration}{2h 30m}
+
+% Convenience setup: \examsetup{Course}{Program}{Year}{Type}{Date}{Duration}
+\newcommand{\examsetup}[6]{%
+  \renewcommand{\ExamCourse}{#1}%
+  \renewcommand{\ExamProgram}{#2}%
+  \renewcommand{\ExamYear}{#3}%
+  \renewcommand{\ExamType}{#4}%
+  \renewcommand{\ExamDate}{#5}%
+  \renewcommand{\ExamDuration}{#6}%
+}
+
+% ---------- Regulations ----------
+\newcommand{\ExamRegulations}{%
+\usepackage{}
+\begingroup
+    \ExamRegFont
+    \setlength{\fboxsep}{\ExamRegPadding}% padding inside the color box
+    \colorbox{\ExamRegBgColor}{%
+      \parbox{0.95\linewidth}{%
+        \setlength{\parindent}{0pt}%
+        % (Optional) tighten list spacing a touch:
+        \setlength{\itemsep}{0.3em}%
+        \setlength{\parsep}{0pt}%
+        \setlength{\topsep}{0.3em}%
+        \begin{enumerate}
+            \item \textbf{You cannot be late.} The exam will start punctually which means that any student that arrives after the start time will not be permitted entry. Students who are late will not be allowed to participate in the examination session.
+            \item Students are permitted to ask questions about the examination paper during the first \textbf{30-45 minutes}. To do this, students must raise their hands and wait for the professor's permission. Each question must be asked out loud so that all students have equal access to the information. It is strictly prohibited to ask questions beyond this designated time period.
+            \item Any electronic device (mobile phone, iPad, smartwatch, computer etc.) \textbf{is not permitted in the examination room.} If a student is found in possession of any of these it will result in immediate \textbf{expulsion} from the exam room and the student's examination session will be graded as \textbf{"Fail"}.
+            \item The student must not bring notes and materials of the subject (or any other) into the examination room. Students should make sure that \textbf{drawers} under the tables are empty. \textbf{Each student will be responsible for the area} in which they are located meaning that if notes or other prohibited material that does not belong to them are found in this area it will still be their responsibility.
+            \item \textbf{Students must have all necessary material to complete the exam} as they are not permitted to request anything from their classmates (eg. calculator, pens, rulers etc.). They are not permitted to be in possession of anything that the professor has not authorized.
+            \item \textbf{Communication between students during the examination session is strictly prohibited}. Students who attempt to communicate (for example through talking, the passing of notes, the exchange of papers or any other form including inappropriate behaviours) will be subject to \textbf{expulsion}. The exam will be automatically confiscated and the student's examination session will be graded as "Fail".
+            \item \textbf{Once the examination session has begun, students are not permitted to leave the examination room under any circumstances before submitting their examination paper.} If a student does leave, then this will be interpreted as a withdrawal from the exam resulting in the examination session being graded as a "Fail".
+            \item Once a student has left the examination room \textbf{they are prohibited reentry.}
+            \item \textbf{Students must submit the exam within the stipulated period} meaning that they are not able to request extensions.
+            \item Upon completion, \textbf{students must hand in their examination paper and sign a submission form before leaving the examination room.} They must do this in order for the exam paper to be successfully submitted.
+\end{enumerate}
+}% end parbox
+    }% end colorbox
+  \endgroup
+}
+
+% ---------- Cover builder ----------
+\newcommand{\makeexamcover}{%
+  \begin{coverpage}
+    \thispagestyle{fancy}
+    % Header
+    \begin{center} 
+        \vspace*{0.2cm}
+        {\LARGE \textbf{\ExamCourse} -- \textbf{\ExamType} \par}
+        {\large \ExamProgram\ \textbullet\ \ExamYear\par}
+    \end{center}
+
+    \vspace{0.2cm}
+    % (Name + Group on ONE line using a single tabular
+    \noindent
+    \begin{tabular}{@{}p{0.65\linewidth} p{0.3\linewidth}@{}}
+      \textbf{Name and Surname:} \hrulefill & \textbf{Group: } \hrulefill \\
+    \end{tabular}
+    \vspace{0.6em}
+
+    % Date + Duration 
+    \noindent
+    \begin{tabular}{@{}ll@{}}
+      \textbf{Date:} & \ExamDate \\[0.3em]
+      \textbf{Duration:} & \ExamDuration \\
+    \end{tabular}
+
+    \vspace{0.6em}
+
+    % Exam regulations
+    {\large \textbf{Exam Regulations}}\par
+      \ExamRegulations
+
+    \vfill
+
+  \end{coverpage}
+  \clearpage
+} 
