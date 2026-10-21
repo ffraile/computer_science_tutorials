@@ -18,7 +18,7 @@ With this said, we are ready to get started! But before you do, I think it is im
    :glob:
 
    Computer Programming Basics <Introduction/index_p1>
-   Data Manipulation <Introduction/index_p2>
+   Structured Programming and Data Manipulation <Introduction/index_p2>
    Data storage, retrieval and representation <Databases/index_p3>
 ```
 

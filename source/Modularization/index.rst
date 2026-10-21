@@ -18,7 +18,8 @@ This section contains some basic tutorials:
 
 Class materials
 _______________
-Follow-along notebooks and classroom practice:
+Follow-along notebooks and classroom practice. Sessions 18 and 19 share the
+advanced iterables notebooks; session 19 continues the work started in session 18:
 
 .. toctree::
     :maxdepth: 2
@@ -27,16 +28,16 @@ Follow-along notebooks and classroom practice:
 
     Session 17 Follow-along </Modularization/follow_along/Session 17 - Structured programming and functions - follow along>
     Session 17 Practice </Modularization/exercises/Session 17 - Structured programming and functions - practice>
-    Session 18 Follow-along </Modularization/follow_along/Session 18 - Advanced iterables - follow along>
-    Session 18 Practice </Modularization/exercises/Session 18 - Advanced iterables - practice>
+    Sessions 18–19 Follow-along </Modularization/follow_along/Session 18 - Advanced iterables - follow along>
+    Sessions 18–19 Practice </Modularization/exercises/Session 18 - Advanced iterables - practice>
     Session 20 Follow-along </Modularization/follow_along/Session 20 - NumPy arrays and numerical operations - follow along>
     Session 20 Practice </Modularization/exercises/Session 20 - NumPy arrays and numerical operations - practice>
-    Session 22 Follow-along </Modularization/follow_along/Session 22 - Structured data and serialisation - follow along>
-    Session 22 Practice </Modularization/exercises/Session 22 - Structured data and serialisation - practice>
-    Session 23 Follow-along </Modularization/follow_along/Session 23 - Pandas foundations - follow along>
-    Session 23 Practice </Modularization/exercises/Session 23 - Pandas foundations - practice>
-    Session 24 Follow-along </Modularization/follow_along/Session 24 - Pandas analysis - follow along>
-    Session 24 Practice </Modularization/exercises/Session 24 - Pandas analysis - practice>
+    Session 21 Follow-along </Modularization/follow_along/Session 21 - Structured data and serialisation - follow along>
+    Session 21 Practice </Modularization/exercises/Session 21 - Structured data and serialisation - practice>
+    Session 22 Follow-along </Modularization/follow_along/Session 22 - Pandas foundations - follow along>
+    Session 22 Practice </Modularization/exercises/Session 22 - Pandas foundations - practice>
+    Session 23 Follow-along </Modularization/follow_along/Session 23 - Pandas analysis - follow along>
+    Session 23 Practice </Modularization/exercises/Session 23 - Pandas analysis - practice>
 
 Exercises
 __________
