@@ -51,7 +51,7 @@ We will define functions with `def`, use parameters and default values, distingu
 
 ### Presentation
 
-- [Session 17 presentation outline](../Modularization/slides/session-17-opening-active-learning-slide-deck.md): Opening activities, explanations and discussion prompts.
+- [Session 17 presentation slides](https://canva.link/qyrlk1cc314ciod): Opening activities, explanations and discussion prompts.
 
 ### Class materials
 
@@ -66,7 +66,7 @@ We will define functions with `def`, use parameters and default values, distingu
 
 ---
 
-## Session 18 — Advanced iterables I — Lists, tuples and dictionaries
+## Sessions 18 - 19 — Advanced iterables I — Lists, tuples and dictionaries
 
 **Date:** See the course calendar
 
@@ -76,7 +76,7 @@ We will compare lists, tuples and dictionaries; use indexing and slicing; distin
 
 ### Presentation
 
-- [Session 18 presentation outline](../Modularization/slides/session-18-opening-active-learning-slide-deck.md): Shared outline for Sessions 18–19.
+- [Session 18 presentation slides](../Modularization/slides/session-18-opening-active-learning-slide-deck.md): Shared outline for Sessions 18–19.
 
 ### Class materials
 
@@ -99,7 +99,7 @@ We will iterate over dictionaries, combine structures into lists of records, pas
 
 ### Presentation
 
-- [Session 19 presentation outline](../Modularization/slides/session-18-opening-active-learning-slide-deck.md): Shared outline for Sessions 18–19.
+- [Session 18 presentation slides](../Modularization/slides/session-18-opening-active-learning-slide-deck.md): Shared outline for Sessions 18–19.
 
 ### Class materials
 
@@ -123,7 +123,7 @@ We will inspect array shapes and types, select elements and regions, perform ele
 
 ### Presentation
 
-- [Session 20 presentation outline](../Modularization/slides/session-20-numpy-slide-deck.md): Opening activities, explanations and discussion prompts.
+- [Session 20 presentation slides](https://canva.link/tmz88y6is1wyka6): Opening activities, explanations and discussion prompts.
 
 ### Class materials
 
@@ -148,7 +148,7 @@ We will read and write text files, represent records as CSV and JSON, distinguis
 
 ### Presentation
 
-- [Session 21 presentation outline](../Modularization/slides/session-21-structured-data-serialization-slide-deck.md): Opening activities, explanations and discussion prompts.
+- [Session 21 presentation slides](https://canva.link/7wckz66p8tuof9n): Opening activities, explanations and discussion prompts.
 
 ### Class materials
 
@@ -173,7 +173,7 @@ We will create and load DataFrames, select columns and rows with `loc` and `iloc
 
 ### Presentation
 
-- [Session 22 presentation outline](../Modularization/slides/session-22-pandas-foundations-slide-deck.md): Opening activities, explanations and discussion prompts.
+- [Session 22 presentation slides](https://canva.link/tu53u3ssx5qpj3g): Opening activities, explanations and discussion prompts.
 
 ### Class materials
 
@@ -197,7 +197,7 @@ We will identify keys and table grain, compare joins, check unmatched and duplic
 
 ### Presentation
 
-- [Session 23 presentation outline](../Modularization/slides/session-23-pandas-analysis-slide-deck.md): Opening activities, explanations and discussion prompts.
+- [Session 23 presentation slides](https://canva.link/rl6woyyhz1anmuc): Opening activities, explanations and discussion prompts.
 
 ### Class materials
 
