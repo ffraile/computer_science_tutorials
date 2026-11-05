@@ -30,6 +30,7 @@ advanced iterables notebooks; session 19 continues the work started in session 1
     Session 17 Practice </Modularization/exercises/Session 17 - Structured programming and functions - practice>
     Sessions 18–19 Follow-along </Modularization/follow_along/Session 18 - Advanced iterables - follow along>
     Sessions 18–19 Practice </Modularization/exercises/Session 18 - Advanced iterables - practice>
+    Session 19 IoT challenge: Arduino–Python commands </Modularization/follow_along/Session 19 - IoT challenge - Arduino-Python commands - follow along>
     Session 20 Follow-along </Modularization/follow_along/Session 20 - NumPy arrays and numerical operations - follow along>
     Session 20 Practice </Modularization/exercises/Session 20 - NumPy arrays and numerical operations - practice>
     Session 21 Follow-along </Modularization/follow_along/Session 21 - Structured data and serialisation - follow along>

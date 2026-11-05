@@ -76,7 +76,7 @@ We will compare lists, tuples and dictionaries; use indexing and slicing; distin
 
 ### Presentation
 
-- [Session 18 presentation slides](../Modularization/slides/session-18-opening-active-learning-slide-deck.md): Shared outline for Sessions 18–19.
+- [Session 18 presentation slides](https://canva.link/b03d5i2677f3cmg): Shared outline for Sessions 18–19.
 
 ### Class materials
 
@@ -99,13 +99,13 @@ We will iterate over dictionaries, combine structures into lists of records, pas
 
 ### Presentation
 
-- [Session 18 presentation slides](../Modularization/slides/session-18-opening-active-learning-slide-deck.md): Shared outline for Sessions 18–19.
+- [Session 18 presentation slides](https://canva.link/b03d5i2677f3cmg): Shared outline for Sessions 18–19.
 
 ### Class materials
 
 - [Session 19 follow-along (shared notebook)](../Modularization/follow_along/Session%2018%20-%20Advanced%20iterables%20-%20follow%20along.ipynb): Continue with sections 5–11: iteration, nested records, functions, transformations and comprehensions.
+- [Session 19 Gluing Arduino and Python](../Modularization/follow_along/Session%2019%20-%20IoT%20challenge%20-%20Arduino-Python%20commands%20-%20follow%20along.ipynb): Combine hardware and software concepts through a practical example.
 - [Session 19 practice (shared notebook)](../Modularization/exercises/Session%2018%20-%20Advanced%20iterables%20-%20practice.ipynb): Continue the shared practice with nested structures, collection transformations and comprehensions.
-
 ### Related tutorials and extra materials
 
 - [Iterable Objects II](./tutorials/Iterable%20Objects%20II.ipynb): Review nested structures and comprehensions.
